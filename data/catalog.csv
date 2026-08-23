@@ -1,0 +1,275 @@
+subject,class,book,book_code,chapter_no,chapter_title,source,pdf_path,text_path,word_count,status
+History,6,Our Pasts I,fess1,1,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_01.pdf,data/text/History/Class6/Our_Pasts_I/ch_01.txt,,ok
+History,6,Our Pasts I,fess1,2,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_02.pdf,data/text/History/Class6/Our_Pasts_I/ch_02.txt,,ok
+History,6,Our Pasts I,fess1,3,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_03.pdf,data/text/History/Class6/Our_Pasts_I/ch_03.txt,,ok
+History,6,Our Pasts I,fess1,4,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_04.pdf,data/text/History/Class6/Our_Pasts_I/ch_04.txt,,ok
+History,6,Our Pasts I,fess1,5,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_05.pdf,data/text/History/Class6/Our_Pasts_I/ch_05.txt,,ok
+History,6,Our Pasts I,fess1,6,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_06.pdf,data/text/History/Class6/Our_Pasts_I/ch_06.txt,,ok
+History,6,Our Pasts I,fess1,7,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_07.pdf,data/text/History/Class6/Our_Pasts_I/ch_07.txt,,ok
+History,6,Our Pasts I,fess1,8,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_08.pdf,data/text/History/Class6/Our_Pasts_I/ch_08.txt,,ok
+History,6,Our Pasts I,fess1,9,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_09.pdf,data/text/History/Class6/Our_Pasts_I/ch_09.txt,,ok
+History,6,Our Pasts I,fess1,10,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_10.pdf,data/text/History/Class6/Our_Pasts_I/ch_10.txt,,ok
+History,6,Our Pasts I,fess1,11,,wayback,data/raw_pdfs/History/Class6/Our_Pasts_I/ch_11.pdf,data/text/History/Class6/Our_Pasts_I/ch_11.txt,,ok
+History,7,Our Pasts II,gess1,1,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_01.pdf,data/text/History/Class7/Our_Pasts_II/ch_01.txt,,ok
+History,7,Our Pasts II,gess1,2,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_02.pdf,data/text/History/Class7/Our_Pasts_II/ch_02.txt,,ok
+History,7,Our Pasts II,gess1,3,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_03.pdf,data/text/History/Class7/Our_Pasts_II/ch_03.txt,,ok
+History,7,Our Pasts II,gess1,4,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_04.pdf,data/text/History/Class7/Our_Pasts_II/ch_04.txt,,ok
+History,7,Our Pasts II,gess1,5,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_05.pdf,data/text/History/Class7/Our_Pasts_II/ch_05.txt,,ok
+History,7,Our Pasts II,gess1,6,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_06.pdf,data/text/History/Class7/Our_Pasts_II/ch_06.txt,,ok
+History,7,Our Pasts II,gess1,7,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_07.pdf,data/text/History/Class7/Our_Pasts_II/ch_07.txt,,ok
+History,7,Our Pasts II,gess1,8,,official,data/raw_pdfs/History/Class7/Our_Pasts_II/ch_08.pdf,data/text/History/Class7/Our_Pasts_II/ch_08.txt,,ok
+History,8,Our Pasts III,hess2,1,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_01.pdf,data/text/History/Class8/Our_Pasts_III/ch_01.txt,,ok
+History,8,Our Pasts III,hess2,2,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_02.pdf,data/text/History/Class8/Our_Pasts_III/ch_02.txt,,ok
+History,8,Our Pasts III,hess2,3,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_03.pdf,data/text/History/Class8/Our_Pasts_III/ch_03.txt,,ok
+History,8,Our Pasts III,hess2,4,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_04.pdf,data/text/History/Class8/Our_Pasts_III/ch_04.txt,,ok
+History,8,Our Pasts III,hess2,5,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_05.pdf,data/text/History/Class8/Our_Pasts_III/ch_05.txt,,ok
+History,8,Our Pasts III,hess2,6,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_06.pdf,data/text/History/Class8/Our_Pasts_III/ch_06.txt,,ok
+History,8,Our Pasts III,hess2,7,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_07.pdf,data/text/History/Class8/Our_Pasts_III/ch_07.txt,,ok
+History,8,Our Pasts III,hess2,8,,official,data/raw_pdfs/History/Class8/Our_Pasts_III/ch_08.pdf,data/text/History/Class8/Our_Pasts_III/ch_08.txt,,ok
+History,9,India and the Contemporary World I,iess3,1,,wayback,data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_01.pdf,data/text/History/Class9/India_and_the_Contemporary_World_I/ch_01.txt,,ok
+History,9,India and the Contemporary World I,iess3,2,,wayback,data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_02.pdf,data/text/History/Class9/India_and_the_Contemporary_World_I/ch_02.txt,,ok
+History,9,India and the Contemporary World I,iess3,3,,wayback,data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_03.pdf,data/text/History/Class9/India_and_the_Contemporary_World_I/ch_03.txt,,ok
+History,9,India and the Contemporary World I,iess3,4,,wayback,data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_04.pdf,data/text/History/Class9/India_and_the_Contemporary_World_I/ch_04.txt,,ok
+History,9,India and the Contemporary World I,iess3,5,,wayback,data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_05.pdf,data/text/History/Class9/India_and_the_Contemporary_World_I/ch_05.txt,,ok
+History,9,India and the Contemporary World I,iess3,6,,wayback,data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_06.pdf,data/text/History/Class9/India_and_the_Contemporary_World_I/ch_06.txt,,ok
+History,10,India and the Contemporary World II,jess3,1,,official,data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_01.pdf,data/text/History/Class10/India_and_the_Contemporary_World_II/ch_01.txt,,ok
+History,10,India and the Contemporary World II,jess3,2,,official,data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_02.pdf,data/text/History/Class10/India_and_the_Contemporary_World_II/ch_02.txt,,ok
+History,10,India and the Contemporary World II,jess3,3,,official,data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_03.pdf,data/text/History/Class10/India_and_the_Contemporary_World_II/ch_03.txt,,ok
+History,10,India and the Contemporary World II,jess3,4,,official,data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_04.pdf,data/text/History/Class10/India_and_the_Contemporary_World_II/ch_04.txt,,ok
+History,10,India and the Contemporary World II,jess3,5,,official,data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_05.pdf,data/text/History/Class10/India_and_the_Contemporary_World_II/ch_05.txt,,ok
+History,11,Themes in World History,kehs1,1,,official,data/raw_pdfs/History/Class11/Themes_in_World_History/ch_01.pdf,data/text/History/Class11/Themes_in_World_History/ch_01.txt,,ok
+History,11,Themes in World History,kehs1,2,,official,data/raw_pdfs/History/Class11/Themes_in_World_History/ch_02.pdf,data/text/History/Class11/Themes_in_World_History/ch_02.txt,,ok
+History,11,Themes in World History,kehs1,3,,official,data/raw_pdfs/History/Class11/Themes_in_World_History/ch_03.pdf,data/text/History/Class11/Themes_in_World_History/ch_03.txt,,ok
+History,11,Themes in World History,kehs1,4,,official,data/raw_pdfs/History/Class11/Themes_in_World_History/ch_04.pdf,data/text/History/Class11/Themes_in_World_History/ch_04.txt,,ok
+History,11,Themes in World History,kehs1,5,,official,data/raw_pdfs/History/Class11/Themes_in_World_History/ch_05.pdf,data/text/History/Class11/Themes_in_World_History/ch_05.txt,,ok
+History,11,Themes in World History,kehs1,6,,official,data/raw_pdfs/History/Class11/Themes_in_World_History/ch_06.pdf,data/text/History/Class11/Themes_in_World_History/ch_06.txt,,ok
+History,11,Themes in World History,kehs1,7,,official,data/raw_pdfs/History/Class11/Themes_in_World_History/ch_07.pdf,data/text/History/Class11/Themes_in_World_History/ch_07.txt,,ok
+History,12,Themes in Indian History I,lehs1,1,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_01.pdf,data/text/History/Class12/Themes_in_Indian_History_I/ch_01.txt,,ok
+History,12,Themes in Indian History I,lehs1,2,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_02.pdf,data/text/History/Class12/Themes_in_Indian_History_I/ch_02.txt,,ok
+History,12,Themes in Indian History I,lehs1,3,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_03.pdf,data/text/History/Class12/Themes_in_Indian_History_I/ch_03.txt,,ok
+History,12,Themes in Indian History I,lehs1,4,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_04.pdf,data/text/History/Class12/Themes_in_Indian_History_I/ch_04.txt,,ok
+History,12,Themes in Indian History II,lehs2,1,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_01.pdf,data/text/History/Class12/Themes_in_Indian_History_II/ch_01.txt,,ok
+History,12,Themes in Indian History II,lehs2,2,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_02.pdf,data/text/History/Class12/Themes_in_Indian_History_II/ch_02.txt,,ok
+History,12,Themes in Indian History II,lehs2,3,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_03.pdf,data/text/History/Class12/Themes_in_Indian_History_II/ch_03.txt,,ok
+History,12,Themes in Indian History II,lehs2,4,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_04.pdf,data/text/History/Class12/Themes_in_Indian_History_II/ch_04.txt,,ok
+History,12,Themes in Indian History III,lehs3,1,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_01.pdf,data/text/History/Class12/Themes_in_Indian_History_III/ch_01.txt,,ok
+History,12,Themes in Indian History III,lehs3,2,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_02.pdf,data/text/History/Class12/Themes_in_Indian_History_III/ch_02.txt,,ok
+History,12,Themes in Indian History III,lehs3,3,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_03.pdf,data/text/History/Class12/Themes_in_Indian_History_III/ch_03.txt,,ok
+History,12,Themes in Indian History III,lehs3,4,,official,data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_04.pdf,data/text/History/Class12/Themes_in_Indian_History_III/ch_04.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,1,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_01.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_01.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,2,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_02.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_02.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,3,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_03.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_03.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,4,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_04.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_04.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,5,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_05.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_05.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,6,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_06.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_06.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,7,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_07.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_07.txt,,ok
+Geography,6,The Earth Our Habitat,fess2,8,,wayback,data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_08.pdf,data/text/Geography/Class6/The_Earth_Our_Habitat/ch_08.txt,,ok
+Geography,7,Our Environment,gess2,1,,official,data/raw_pdfs/Geography/Class7/Our_Environment/ch_01.pdf,data/text/Geography/Class7/Our_Environment/ch_01.txt,,ok
+Geography,7,Our Environment,gess2,2,,official,data/raw_pdfs/Geography/Class7/Our_Environment/ch_02.pdf,data/text/Geography/Class7/Our_Environment/ch_02.txt,,ok
+Geography,7,Our Environment,gess2,3,,official,data/raw_pdfs/Geography/Class7/Our_Environment/ch_03.pdf,data/text/Geography/Class7/Our_Environment/ch_03.txt,,ok
+Geography,7,Our Environment,gess2,4,,official,data/raw_pdfs/Geography/Class7/Our_Environment/ch_04.pdf,data/text/Geography/Class7/Our_Environment/ch_04.txt,,ok
+Geography,7,Our Environment,gess2,5,,official,data/raw_pdfs/Geography/Class7/Our_Environment/ch_05.pdf,data/text/Geography/Class7/Our_Environment/ch_05.txt,,ok
+Geography,7,Our Environment,gess2,6,,official,data/raw_pdfs/Geography/Class7/Our_Environment/ch_06.pdf,data/text/Geography/Class7/Our_Environment/ch_06.txt,,ok
+Geography,7,Our Environment,gess2,7,,official,data/raw_pdfs/Geography/Class7/Our_Environment/ch_07.pdf,data/text/Geography/Class7/Our_Environment/ch_07.txt,,ok
+Geography,8,Resource and Development,hess4,1,,official,data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_01.pdf,data/text/Geography/Class8/Resource_and_Development/ch_01.txt,,ok
+Geography,8,Resource and Development,hess4,2,,official,data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_02.pdf,data/text/Geography/Class8/Resource_and_Development/ch_02.txt,,ok
+Geography,8,Resource and Development,hess4,3,,official,data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_03.pdf,data/text/Geography/Class8/Resource_and_Development/ch_03.txt,,ok
+Geography,8,Resource and Development,hess4,4,,official,data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_04.pdf,data/text/Geography/Class8/Resource_and_Development/ch_04.txt,,ok
+Geography,8,Resource and Development,hess4,5,,official,data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_05.pdf,data/text/Geography/Class8/Resource_and_Development/ch_05.txt,,ok
+Geography,9,Contemporary India I,iess1,1,,wayback,data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_01.pdf,data/text/Geography/Class9/Contemporary_India_I/ch_01.txt,,ok
+Geography,9,Contemporary India I,iess1,2,,wayback,data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_02.pdf,data/text/Geography/Class9/Contemporary_India_I/ch_02.txt,,ok
+Geography,9,Contemporary India I,iess1,3,,wayback,data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_03.pdf,data/text/Geography/Class9/Contemporary_India_I/ch_03.txt,,ok
+Geography,9,Contemporary India I,iess1,4,,wayback,data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_04.pdf,data/text/Geography/Class9/Contemporary_India_I/ch_04.txt,,ok
+Geography,9,Contemporary India I,iess1,5,,wayback,data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_05.pdf,data/text/Geography/Class9/Contemporary_India_I/ch_05.txt,,ok
+Geography,9,Contemporary India I,iess1,6,,wayback,data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_06.pdf,data/text/Geography/Class9/Contemporary_India_I/ch_06.txt,,ok
+Geography,10,Contemporary India II,jess1,1,,official,data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_01.pdf,data/text/Geography/Class10/Contemporary_India_II/ch_01.txt,,ok
+Geography,10,Contemporary India II,jess1,2,,official,data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_02.pdf,data/text/Geography/Class10/Contemporary_India_II/ch_02.txt,,ok
+Geography,10,Contemporary India II,jess1,3,,official,data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_03.pdf,data/text/Geography/Class10/Contemporary_India_II/ch_03.txt,,ok
+Geography,10,Contemporary India II,jess1,4,,official,data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_04.pdf,data/text/Geography/Class10/Contemporary_India_II/ch_04.txt,,ok
+Geography,10,Contemporary India II,jess1,5,,official,data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_05.pdf,data/text/Geography/Class10/Contemporary_India_II/ch_05.txt,,ok
+Geography,10,Contemporary India II,jess1,6,,official,data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_06.pdf,data/text/Geography/Class10/Contemporary_India_II/ch_06.txt,,ok
+Geography,10,Contemporary India II,jess1,7,,official,data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_07.pdf,data/text/Geography/Class10/Contemporary_India_II/ch_07.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,1,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_01.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_01.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,2,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_02.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_02.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,3,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_03.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_03.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,4,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_04.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_04.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,5,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_05.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_05.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,6,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_06.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_06.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,7,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_07.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_07.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,8,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_08.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_08.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,9,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_09.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_09.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,10,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_10.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_10.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,11,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_11.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_11.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,12,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_12.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_12.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,13,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_13.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_13.txt,,ok
+Geography,11,Fundamentals of Physical Geography,kegy2,14,,official,data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_14.pdf,data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_14.txt,,ok
+Geography,11,India Physical Environment,kegy1,1,,official,data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_01.pdf,data/text/Geography/Class11/India_Physical_Environment/ch_01.txt,,ok
+Geography,11,India Physical Environment,kegy1,2,,official,data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_02.pdf,data/text/Geography/Class11/India_Physical_Environment/ch_02.txt,,ok
+Geography,11,India Physical Environment,kegy1,3,,official,data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_03.pdf,data/text/Geography/Class11/India_Physical_Environment/ch_03.txt,,ok
+Geography,11,India Physical Environment,kegy1,4,,official,data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_04.pdf,data/text/Geography/Class11/India_Physical_Environment/ch_04.txt,,ok
+Geography,11,India Physical Environment,kegy1,5,,official,data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_05.pdf,data/text/Geography/Class11/India_Physical_Environment/ch_05.txt,,ok
+Geography,11,India Physical Environment,kegy1,6,,official,data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_06.pdf,data/text/Geography/Class11/India_Physical_Environment/ch_06.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,1,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_01.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_01.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,2,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_02.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_02.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,3,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_03.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_03.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,4,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_04.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_04.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,5,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_05.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_05.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,6,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_06.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_06.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,7,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_07.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_07.txt,,ok
+Geography,12,Fundamentals of Human Geography,legy1,8,,official,data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_08.pdf,data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_08.txt,,ok
+Geography,12,India People and Economy,legy2,1,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_01.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_01.txt,,ok
+Geography,12,India People and Economy,legy2,2,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_02.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_02.txt,,ok
+Geography,12,India People and Economy,legy2,3,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_03.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_03.txt,,ok
+Geography,12,India People and Economy,legy2,4,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_04.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_04.txt,,ok
+Geography,12,India People and Economy,legy2,5,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_05.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_05.txt,,ok
+Geography,12,India People and Economy,legy2,6,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_06.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_06.txt,,ok
+Geography,12,India People and Economy,legy2,7,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_07.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_07.txt,,ok
+Geography,12,India People and Economy,legy2,8,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_08.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_08.txt,,ok
+Geography,12,India People and Economy,legy2,9,,official,data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_09.pdf,data/text/Geography/Class12/India_People_and_Economy/ch_09.txt,,ok
+Polity,9,Democratic Politics I,iess4,1,,wayback,data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_01.pdf,data/text/Polity/Class9/Democratic_Politics_I/ch_01.txt,,ok
+Polity,9,Democratic Politics I,iess4,2,,wayback,data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_02.pdf,data/text/Polity/Class9/Democratic_Politics_I/ch_02.txt,,ok
+Polity,9,Democratic Politics I,iess4,3,,wayback,data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_03.pdf,data/text/Polity/Class9/Democratic_Politics_I/ch_03.txt,,ok
+Polity,9,Democratic Politics I,iess4,4,,wayback,data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_04.pdf,data/text/Polity/Class9/Democratic_Politics_I/ch_04.txt,,ok
+Polity,9,Democratic Politics I,iess4,5,,wayback,data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_05.pdf,data/text/Polity/Class9/Democratic_Politics_I/ch_05.txt,,ok
+Polity,10,Democratic Politics II,jess4,1,,official,data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_01.pdf,data/text/Polity/Class10/Democratic_Politics_II/ch_01.txt,,ok
+Polity,10,Democratic Politics II,jess4,2,,official,data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_02.pdf,data/text/Polity/Class10/Democratic_Politics_II/ch_02.txt,,ok
+Polity,10,Democratic Politics II,jess4,3,,official,data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_03.pdf,data/text/Polity/Class10/Democratic_Politics_II/ch_03.txt,,ok
+Polity,10,Democratic Politics II,jess4,4,,official,data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_04.pdf,data/text/Polity/Class10/Democratic_Politics_II/ch_04.txt,,ok
+Polity,10,Democratic Politics II,jess4,5,,official,data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_05.pdf,data/text/Polity/Class10/Democratic_Politics_II/ch_05.txt,,ok
+Polity,11,Political Theory,keps1,1,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_01.pdf,data/text/Polity/Class11/Political_Theory/ch_01.txt,,ok
+Polity,11,Political Theory,keps1,2,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_02.pdf,data/text/Polity/Class11/Political_Theory/ch_02.txt,,ok
+Polity,11,Political Theory,keps1,3,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_03.pdf,data/text/Polity/Class11/Political_Theory/ch_03.txt,,ok
+Polity,11,Political Theory,keps1,4,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_04.pdf,data/text/Polity/Class11/Political_Theory/ch_04.txt,,ok
+Polity,11,Political Theory,keps1,5,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_05.pdf,data/text/Polity/Class11/Political_Theory/ch_05.txt,,ok
+Polity,11,Political Theory,keps1,6,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_06.pdf,data/text/Polity/Class11/Political_Theory/ch_06.txt,,ok
+Polity,11,Political Theory,keps1,7,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_07.pdf,data/text/Polity/Class11/Political_Theory/ch_07.txt,,ok
+Polity,11,Political Theory,keps1,8,,official,data/raw_pdfs/Polity/Class11/Political_Theory/ch_08.pdf,data/text/Polity/Class11/Political_Theory/ch_08.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,1,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_01.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_01.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,2,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_02.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_02.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,3,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_03.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_03.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,4,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_04.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_04.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,5,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_05.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_05.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,6,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_06.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_06.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,7,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_07.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_07.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,8,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_08.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_08.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,9,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_09.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_09.txt,,ok
+Polity,11,Indian Constitution at Work,keps2,10,,official,data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_10.pdf,data/text/Polity/Class11/Indian_Constitution_at_Work/ch_10.txt,,ok
+Polity,12,Contemporary World Politics,leps1,1,,official,data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_01.pdf,data/text/Polity/Class12/Contemporary_World_Politics/ch_01.txt,,ok
+Polity,12,Contemporary World Politics,leps1,2,,official,data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_02.pdf,data/text/Polity/Class12/Contemporary_World_Politics/ch_02.txt,,ok
+Polity,12,Contemporary World Politics,leps1,3,,official,data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_03.pdf,data/text/Polity/Class12/Contemporary_World_Politics/ch_03.txt,,ok
+Polity,12,Contemporary World Politics,leps1,4,,official,data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_04.pdf,data/text/Polity/Class12/Contemporary_World_Politics/ch_04.txt,,ok
+Polity,12,Contemporary World Politics,leps1,5,,official,data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_05.pdf,data/text/Polity/Class12/Contemporary_World_Politics/ch_05.txt,,ok
+Polity,12,Contemporary World Politics,leps1,6,,official,data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_06.pdf,data/text/Polity/Class12/Contemporary_World_Politics/ch_06.txt,,ok
+Polity,12,Contemporary World Politics,leps1,7,,official,data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_07.pdf,data/text/Polity/Class12/Contemporary_World_Politics/ch_07.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,1,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_01.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_01.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,2,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_02.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_02.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,3,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_03.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_03.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,4,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_04.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_04.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,5,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_05.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_05.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,6,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_06.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_06.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,7,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_07.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_07.txt,,ok
+Polity,12,Politics in India Since Independence,leps2,8,,official,data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_08.pdf,data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_08.txt,,ok
+Economics,9,Economics,iess2,1,,wayback,data/raw_pdfs/Economics/Class9/Economics/ch_01.pdf,data/text/Economics/Class9/Economics/ch_01.txt,,ok
+Economics,9,Economics,iess2,2,,wayback,data/raw_pdfs/Economics/Class9/Economics/ch_02.pdf,data/text/Economics/Class9/Economics/ch_02.txt,,ok
+Economics,9,Economics,iess2,3,,wayback,data/raw_pdfs/Economics/Class9/Economics/ch_03.pdf,data/text/Economics/Class9/Economics/ch_03.txt,,ok
+Economics,9,Economics,iess2,4,,wayback,data/raw_pdfs/Economics/Class9/Economics/ch_04.pdf,data/text/Economics/Class9/Economics/ch_04.txt,,ok
+Economics,10,Understanding Economic Development,jess2,1,,official,data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_01.pdf,data/text/Economics/Class10/Understanding_Economic_Development/ch_01.txt,,ok
+Economics,10,Understanding Economic Development,jess2,2,,official,data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_02.pdf,data/text/Economics/Class10/Understanding_Economic_Development/ch_02.txt,,ok
+Economics,10,Understanding Economic Development,jess2,3,,official,data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_03.pdf,data/text/Economics/Class10/Understanding_Economic_Development/ch_03.txt,,ok
+Economics,10,Understanding Economic Development,jess2,4,,official,data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_04.pdf,data/text/Economics/Class10/Understanding_Economic_Development/ch_04.txt,,ok
+Economics,10,Understanding Economic Development,jess2,5,,official,data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_05.pdf,data/text/Economics/Class10/Understanding_Economic_Development/ch_05.txt,,ok
+Economics,11,Indian Economic Development,keec1,1,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_01.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_01.txt,,ok
+Economics,11,Indian Economic Development,keec1,2,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_02.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_02.txt,,ok
+Economics,11,Indian Economic Development,keec1,3,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_03.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_03.txt,,ok
+Economics,11,Indian Economic Development,keec1,4,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_04.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_04.txt,,ok
+Economics,11,Indian Economic Development,keec1,5,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_05.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_05.txt,,ok
+Economics,11,Indian Economic Development,keec1,6,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_06.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_06.txt,,ok
+Economics,11,Indian Economic Development,keec1,7,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_07.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_07.txt,,ok
+Economics,11,Indian Economic Development,keec1,8,,official,data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_08.pdf,data/text/Economics/Class11/Indian_Economic_Development/ch_08.txt,,ok
+Economics,11,Statistics for Economics,kest1,1,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_01.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_01.txt,,ok
+Economics,11,Statistics for Economics,kest1,2,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_02.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_02.txt,,ok
+Economics,11,Statistics for Economics,kest1,3,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_03.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_03.txt,,ok
+Economics,11,Statistics for Economics,kest1,4,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_04.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_04.txt,,ok
+Economics,11,Statistics for Economics,kest1,5,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_05.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_05.txt,,ok
+Economics,11,Statistics for Economics,kest1,6,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_06.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_06.txt,,ok
+Economics,11,Statistics for Economics,kest1,7,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_07.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_07.txt,,ok
+Economics,11,Statistics for Economics,kest1,8,,official,data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_08.pdf,data/text/Economics/Class11/Statistics_for_Economics/ch_08.txt,,ok
+Economics,12,Introductory Microeconomics,leec2,1,,official,data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_01.pdf,data/text/Economics/Class12/Introductory_Microeconomics/ch_01.txt,,ok
+Economics,12,Introductory Microeconomics,leec2,2,,official,data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_02.pdf,data/text/Economics/Class12/Introductory_Microeconomics/ch_02.txt,,ok
+Economics,12,Introductory Microeconomics,leec2,3,,official,data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_03.pdf,data/text/Economics/Class12/Introductory_Microeconomics/ch_03.txt,,ok
+Economics,12,Introductory Microeconomics,leec2,4,,official,data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_04.pdf,data/text/Economics/Class12/Introductory_Microeconomics/ch_04.txt,,ok
+Economics,12,Introductory Microeconomics,leec2,5,,official,data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_05.pdf,data/text/Economics/Class12/Introductory_Microeconomics/ch_05.txt,,ok
+Economics,12,Introductory Macroeconomics,leec1,1,,official,data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_01.pdf,data/text/Economics/Class12/Introductory_Macroeconomics/ch_01.txt,,ok
+Economics,12,Introductory Macroeconomics,leec1,2,,official,data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_02.pdf,data/text/Economics/Class12/Introductory_Macroeconomics/ch_02.txt,,ok
+Economics,12,Introductory Macroeconomics,leec1,3,,official,data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_03.pdf,data/text/Economics/Class12/Introductory_Macroeconomics/ch_03.txt,,ok
+Economics,12,Introductory Macroeconomics,leec1,4,,official,data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_04.pdf,data/text/Economics/Class12/Introductory_Macroeconomics/ch_04.txt,,ok
+Economics,12,Introductory Macroeconomics,leec1,5,,official,data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_05.pdf,data/text/Economics/Class12/Introductory_Macroeconomics/ch_05.txt,,ok
+Economics,12,Introductory Macroeconomics,leec1,6,,official,data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_06.pdf,data/text/Economics/Class12/Introductory_Macroeconomics/ch_06.txt,,ok
+Science,6,Science,fesc1,1,,wayback,data/raw_pdfs/Science/Class6/Science/ch_01.pdf,data/text/Science/Class6/Science/ch_01.txt,,ok
+Science,6,Science,fesc1,2,,wayback,data/raw_pdfs/Science/Class6/Science/ch_02.pdf,data/text/Science/Class6/Science/ch_02.txt,,ok
+Science,6,Science,fesc1,3,,wayback,data/raw_pdfs/Science/Class6/Science/ch_03.pdf,data/text/Science/Class6/Science/ch_03.txt,,ok
+Science,6,Science,fesc1,4,,wayback,data/raw_pdfs/Science/Class6/Science/ch_04.pdf,data/text/Science/Class6/Science/ch_04.txt,,ok
+Science,6,Science,fesc1,5,,wayback,data/raw_pdfs/Science/Class6/Science/ch_05.pdf,data/text/Science/Class6/Science/ch_05.txt,,ok
+Science,6,Science,fesc1,6,,wayback,data/raw_pdfs/Science/Class6/Science/ch_06.pdf,data/text/Science/Class6/Science/ch_06.txt,,ok
+Science,6,Science,fesc1,7,,wayback,data/raw_pdfs/Science/Class6/Science/ch_07.pdf,data/text/Science/Class6/Science/ch_07.txt,,ok
+Science,6,Science,fesc1,8,,wayback,data/raw_pdfs/Science/Class6/Science/ch_08.pdf,data/text/Science/Class6/Science/ch_08.txt,,ok
+Science,6,Science,fesc1,9,,wayback,data/raw_pdfs/Science/Class6/Science/ch_09.pdf,data/text/Science/Class6/Science/ch_09.txt,,ok
+Science,6,Science,fesc1,10,,wayback,data/raw_pdfs/Science/Class6/Science/ch_10.pdf,data/text/Science/Class6/Science/ch_10.txt,,ok
+Science,6,Science,fesc1,11,,wayback,data/raw_pdfs/Science/Class6/Science/ch_11.pdf,data/text/Science/Class6/Science/ch_11.txt,,ok
+Science,6,Science,fesc1,12,,wayback,data/raw_pdfs/Science/Class6/Science/ch_12.pdf,data/text/Science/Class6/Science/ch_12.txt,,ok
+Science,6,Science,fesc1,13,,wayback,data/raw_pdfs/Science/Class6/Science/ch_13.pdf,data/text/Science/Class6/Science/ch_13.txt,,ok
+Science,6,Science,fesc1,14,,wayback,data/raw_pdfs/Science/Class6/Science/ch_14.pdf,data/text/Science/Class6/Science/ch_14.txt,,ok
+Science,6,Science,fesc1,15,,wayback,data/raw_pdfs/Science/Class6/Science/ch_15.pdf,data/text/Science/Class6/Science/ch_15.txt,,ok
+Science,6,Science,fesc1,16,,wayback,data/raw_pdfs/Science/Class6/Science/ch_16.pdf,data/text/Science/Class6/Science/ch_16.txt,,ok
+Science,7,Science,gesc1,1,,official,data/raw_pdfs/Science/Class7/Science/ch_01.pdf,data/text/Science/Class7/Science/ch_01.txt,,ok
+Science,7,Science,gesc1,2,,official,data/raw_pdfs/Science/Class7/Science/ch_02.pdf,data/text/Science/Class7/Science/ch_02.txt,,ok
+Science,7,Science,gesc1,3,,official,data/raw_pdfs/Science/Class7/Science/ch_03.pdf,data/text/Science/Class7/Science/ch_03.txt,,ok
+Science,7,Science,gesc1,4,,official,data/raw_pdfs/Science/Class7/Science/ch_04.pdf,data/text/Science/Class7/Science/ch_04.txt,,ok
+Science,7,Science,gesc1,5,,official,data/raw_pdfs/Science/Class7/Science/ch_05.pdf,data/text/Science/Class7/Science/ch_05.txt,,ok
+Science,7,Science,gesc1,6,,official,data/raw_pdfs/Science/Class7/Science/ch_06.pdf,data/text/Science/Class7/Science/ch_06.txt,,ok
+Science,7,Science,gesc1,7,,official,data/raw_pdfs/Science/Class7/Science/ch_07.pdf,data/text/Science/Class7/Science/ch_07.txt,,ok
+Science,7,Science,gesc1,8,,official,data/raw_pdfs/Science/Class7/Science/ch_08.pdf,data/text/Science/Class7/Science/ch_08.txt,,ok
+Science,7,Science,gesc1,9,,official,data/raw_pdfs/Science/Class7/Science/ch_09.pdf,data/text/Science/Class7/Science/ch_09.txt,,ok
+Science,7,Science,gesc1,10,,official,data/raw_pdfs/Science/Class7/Science/ch_10.pdf,data/text/Science/Class7/Science/ch_10.txt,,ok
+Science,7,Science,gesc1,11,,official,data/raw_pdfs/Science/Class7/Science/ch_11.pdf,data/text/Science/Class7/Science/ch_11.txt,,ok
+Science,7,Science,gesc1,12,,official,data/raw_pdfs/Science/Class7/Science/ch_12.pdf,data/text/Science/Class7/Science/ch_12.txt,,ok
+Science,7,Science,gesc1,13,,official,data/raw_pdfs/Science/Class7/Science/ch_13.pdf,data/text/Science/Class7/Science/ch_13.txt,,ok
+Science,8,Science,hesc1,1,,official,data/raw_pdfs/Science/Class8/Science/ch_01.pdf,data/text/Science/Class8/Science/ch_01.txt,,ok
+Science,8,Science,hesc1,2,,official,data/raw_pdfs/Science/Class8/Science/ch_02.pdf,data/text/Science/Class8/Science/ch_02.txt,,ok
+Science,8,Science,hesc1,3,,official,data/raw_pdfs/Science/Class8/Science/ch_03.pdf,data/text/Science/Class8/Science/ch_03.txt,,ok
+Science,8,Science,hesc1,4,,official,data/raw_pdfs/Science/Class8/Science/ch_04.pdf,data/text/Science/Class8/Science/ch_04.txt,,ok
+Science,8,Science,hesc1,5,,official,data/raw_pdfs/Science/Class8/Science/ch_05.pdf,data/text/Science/Class8/Science/ch_05.txt,,ok
+Science,8,Science,hesc1,6,,official,data/raw_pdfs/Science/Class8/Science/ch_06.pdf,data/text/Science/Class8/Science/ch_06.txt,,ok
+Science,8,Science,hesc1,7,,official,data/raw_pdfs/Science/Class8/Science/ch_07.pdf,data/text/Science/Class8/Science/ch_07.txt,,ok
+Science,8,Science,hesc1,8,,official,data/raw_pdfs/Science/Class8/Science/ch_08.pdf,data/text/Science/Class8/Science/ch_08.txt,,ok
+Science,8,Science,hesc1,9,,official,data/raw_pdfs/Science/Class8/Science/ch_09.pdf,data/text/Science/Class8/Science/ch_09.txt,,ok
+Science,8,Science,hesc1,10,,official,data/raw_pdfs/Science/Class8/Science/ch_10.pdf,data/text/Science/Class8/Science/ch_10.txt,,ok
+Science,8,Science,hesc1,11,,official,data/raw_pdfs/Science/Class8/Science/ch_11.pdf,data/text/Science/Class8/Science/ch_11.txt,,ok
+Science,8,Science,hesc1,12,,official,data/raw_pdfs/Science/Class8/Science/ch_12.pdf,data/text/Science/Class8/Science/ch_12.txt,,ok
+Science,8,Science,hesc1,13,,official,data/raw_pdfs/Science/Class8/Science/ch_13.pdf,data/text/Science/Class8/Science/ch_13.txt,,ok
+Science,9,Science,iesc1,1,,official,data/raw_pdfs/Science/Class9/Science/ch_01.pdf,data/text/Science/Class9/Science/ch_01.txt,,ok
+Science,9,Science,iesc1,2,,official,data/raw_pdfs/Science/Class9/Science/ch_02.pdf,data/text/Science/Class9/Science/ch_02.txt,,ok
+Science,9,Science,iesc1,3,,official,data/raw_pdfs/Science/Class9/Science/ch_03.pdf,data/text/Science/Class9/Science/ch_03.txt,,ok
+Science,9,Science,iesc1,4,,official,data/raw_pdfs/Science/Class9/Science/ch_04.pdf,data/text/Science/Class9/Science/ch_04.txt,,ok
+Science,9,Science,iesc1,5,,official,data/raw_pdfs/Science/Class9/Science/ch_05.pdf,data/text/Science/Class9/Science/ch_05.txt,,ok
+Science,9,Science,iesc1,6,,official,data/raw_pdfs/Science/Class9/Science/ch_06.pdf,data/text/Science/Class9/Science/ch_06.txt,,ok
+Science,9,Science,iesc1,7,,official,data/raw_pdfs/Science/Class9/Science/ch_07.pdf,data/text/Science/Class9/Science/ch_07.txt,,ok
+Science,9,Science,iesc1,8,,official,data/raw_pdfs/Science/Class9/Science/ch_08.pdf,data/text/Science/Class9/Science/ch_08.txt,,ok
+Science,9,Science,iesc1,9,,official,data/raw_pdfs/Science/Class9/Science/ch_09.pdf,data/text/Science/Class9/Science/ch_09.txt,,ok
+Science,9,Science,iesc1,10,,official,data/raw_pdfs/Science/Class9/Science/ch_10.pdf,data/text/Science/Class9/Science/ch_10.txt,,ok
+Science,9,Science,iesc1,11,,official,data/raw_pdfs/Science/Class9/Science/ch_11.pdf,data/text/Science/Class9/Science/ch_11.txt,,ok
+Science,9,Science,iesc1,12,,official,data/raw_pdfs/Science/Class9/Science/ch_12.pdf,data/text/Science/Class9/Science/ch_12.txt,,ok
+Science,9,Science,iesc1,13,,official,data/raw_pdfs/Science/Class9/Science/ch_13.pdf,data/text/Science/Class9/Science/ch_13.txt,,ok
+Science,10,Science,jesc1,1,,official,data/raw_pdfs/Science/Class10/Science/ch_01.pdf,data/text/Science/Class10/Science/ch_01.txt,,ok
+Science,10,Science,jesc1,2,,official,data/raw_pdfs/Science/Class10/Science/ch_02.pdf,data/text/Science/Class10/Science/ch_02.txt,,ok
+Science,10,Science,jesc1,3,,official,data/raw_pdfs/Science/Class10/Science/ch_03.pdf,data/text/Science/Class10/Science/ch_03.txt,,ok
+Science,10,Science,jesc1,4,,official,data/raw_pdfs/Science/Class10/Science/ch_04.pdf,data/text/Science/Class10/Science/ch_04.txt,,ok
+Science,10,Science,jesc1,5,,official,data/raw_pdfs/Science/Class10/Science/ch_05.pdf,data/text/Science/Class10/Science/ch_05.txt,,ok
+Science,10,Science,jesc1,6,,official,data/raw_pdfs/Science/Class10/Science/ch_06.pdf,data/text/Science/Class10/Science/ch_06.txt,,ok
+Science,10,Science,jesc1,7,,official,data/raw_pdfs/Science/Class10/Science/ch_07.pdf,data/text/Science/Class10/Science/ch_07.txt,,ok
+Science,10,Science,jesc1,8,,official,data/raw_pdfs/Science/Class10/Science/ch_08.pdf,data/text/Science/Class10/Science/ch_08.txt,,ok
+Science,10,Science,jesc1,9,,official,data/raw_pdfs/Science/Class10/Science/ch_09.pdf,data/text/Science/Class10/Science/ch_09.txt,,ok
+Science,10,Science,jesc1,10,,official,data/raw_pdfs/Science/Class10/Science/ch_10.pdf,data/text/Science/Class10/Science/ch_10.txt,,ok
+Science,10,Science,jesc1,11,,official,data/raw_pdfs/Science/Class10/Science/ch_11.pdf,data/text/Science/Class10/Science/ch_11.txt,,ok
+Science,10,Science,jesc1,12,,official,data/raw_pdfs/Science/Class10/Science/ch_12.pdf,data/text/Science/Class10/Science/ch_12.txt,,ok
+Science,10,Science,jesc1,13,,official,data/raw_pdfs/Science/Class10/Science/ch_13.pdf,data/text/Science/Class10/Science/ch_13.txt,,ok

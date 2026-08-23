@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated corpus data — copyrighted NCERT content, fetched locally by the pipeline, not committed
+data/raw_pdfs/
+data/text/
+data/search_index.sqlite
+
+.DS_Store
+.vscode/
+.claude/
