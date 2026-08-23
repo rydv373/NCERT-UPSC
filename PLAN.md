@@ -142,14 +142,22 @@ NCERT-UPSC/
 1. [x] Write `PLAN.md` (this file)
 2. [x] Scaffold project (folders, `requirements.txt`, `utils.py`)
 3. [x] Implement + smoke-test `01_scrape_catalog.py` on one subject/class first
-4. [x] Run full catalog scrape across all subjects/classes in scope; review `catalog.json` counts — 35 books, 266 chapters
-5. [x] Implement `02_download_pdfs.py`
-6. [x] Implement `03_extract_text.py`
-7. [x] Implement `04_build_index.py`
-8. [x] Implement `app/app.py` Streamlit dashboard
-9. [x] Write `tests/` (16 tests, mocked/offline)
-10. [ ] Run full download + extraction + index build; review failure/`image_only` counts
-11. [ ] Smoke-test dashboard in-browser with real UPSC queries
+4. [x] Run full catalog scrape across all subjects/classes in scope — 35 books, 274 chapters
+5. [x] Implement `02_download_pdfs.py` — 248/274 downloaded; 26 chapters (7 retired-edition books)
+   blocked on a Wayback Machine service outage, safe to re-run to pick up the rest
+6. [x] Implement `03_extract_text.py` — fixed several real PDF-extraction bugs along the way
+   (rotated margin text, drop-cap initials, "fake bold" doubled letters, running headers with a
+   varying page-number prefix); 33 tests covering these
+7. [x] Implement `04_build_index.py` (local SQLite FTS5 — still used as the offline/dev fallback
+   backend, see § 8 below)
+8. [x] Implement `app/app.py` Streamlit dashboard — dual-backend (Supabase primary, local SQLite
+   fallback), smoke-tested locally against both
+9. [x] Write `tests/` (33 tests, mocked/offline)
+10. [~] Migrate to Supabase as the primary backend for hosting — see [DEPLOYMENT.md](DEPLOYMENT.md).
+    Code is written (`supabase/schema.sql`, `scripts/05_migrate_to_supabase.py`, Supabase-aware
+    `app.py`), Supabase project created; schema not yet applied, data not yet migrated, not yet
+    deployed to Streamlit Community Cloud
+11. [ ] Re-run `02_download_pdfs.py` once Wayback Machine recovers to fill in the last 26 chapters
 12. [ ] Final review with user; note any gaps for possible v2 (OCR, Hindi medium, extra subjects)
 
 ---

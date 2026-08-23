@@ -74,10 +74,13 @@ in the catalog instead of writing empty text (no OCR in v1).
 streamlit run app/app.py
 ```
 
-Opens a browser tab with:
+Then open **http://localhost:8501**. You'll see:
 - **Search** — full-text query with ranked results, snippets, and subject/class/book filters
 - **Browse** — Subject → Class → Book → Chapter tree, for when you know what you want
-- A chapter reader pane showing the cleaned extracted text and the path to the original PDF
+- A chapter reader pane — click any result/chapter to open it: an **"Open original PDF"**
+  button + file path at the top, followed by the cleaned extracted text
+
+To stop it: `Ctrl+C` in the terminal it's running in, or `pkill -f "streamlit run app/app.py"`.
 
 ## Tests
 
@@ -90,5 +93,18 @@ ncert.nic.in or the Wayback Machine.
 
 ## Status / known gaps
 
-See the status checklist and "Open risks / assumptions" in [PLAN.md](PLAN.md) for what's done,
-what's left, and known limitations (no OCR, no Hindi medium, no v2 subjects yet).
+As of the last full pipeline run: **35 books, 274 catalogued chapters, 248 downloaded/extracted/
+indexed and searchable**. The remaining 26 chapters belong to 7 retired-edition books (e.g. Class 6
+History/Geography/Science, Class 9 Social Science) that depend on the Wayback Machine, which was
+experiencing a service-side outage (503s / truncated responses) at the time — `02_download_pdfs.py`
+is safe to re-run any time to pick up the rest once archive.org recovers; it skips everything
+already downloaded.
+
+See the status checklist and "Open risks / assumptions" in [PLAN.md](PLAN.md) for the full picture,
+and [DEPLOYMENT.md](DEPLOYMENT.md) for how to put this online instead of running it locally.
+
+## Deployment
+
+This runs locally by default (Streamlit + a SQLite file on disk). To host it from GitHub with
+Supabase as the backend — either keeping the current Streamlit UI or rewriting the frontend for
+Vercel — see **[DEPLOYMENT.md](DEPLOYMENT.md)** for the two supported paths and step-by-step plans.

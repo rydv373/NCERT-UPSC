@@ -1,12 +1,16 @@
 """Download all chapter PDFs listed in data/catalog.json.
 
-Resumable: skips files already present on disk. Downloads from the official ncert.nic.in URL
-for source="official" rows, and from the archived Wayback Machine snapshot for source="wayback"
-rows (looked up via the Wayback "available" API, since catalog.json only records that a chapter
-existed, not its exact snapshot timestamp). Retries once on failure. Updates catalog.json's
-status field in place (pdf_missing on failure) and writes it back at the end.
+Resumable: skips files already present and well-formed on disk. Downloads from the official
+ncert.nic.in URL for source="official" rows. For source="wayback" rows, tries every archived
+snapshot timestamp of that chapter (newest first), not just the Wayback "available" API's single
+"closest" pick — archive.org intermittently serves a degraded/truncated response for one snapshot
+while other timestamps of the exact same file are fine, so falling through several candidates
+recovers far more chapters than retrying one URL. Updates catalog.json's status field in place
+(pdf_missing on failure) and writes it back at the end.
 """
+import json
 import sys
+import time
 
 from utils import (
     CATALOG_JSON,
@@ -15,9 +19,8 @@ from utils import (
     is_valid_pdf,
     official_chapter_url,
     polite_sleep,
-    wayback_snapshot_url,
+    wayback_all_snapshots,
 )
-import json
 
 
 def load_catalog() -> list[dict]:
@@ -32,23 +35,24 @@ def save_catalog(rows: list[dict]) -> None:
 
 def download_one(session, row: dict) -> bool:
     pdf_path = PROJECT_ROOT / row["pdf_path"]
-    if pdf_path.exists() and pdf_path.stat().st_size > 20_000:
-        return True  # already downloaded, resumable skip
+    if pdf_path.exists() and is_valid_pdf(pdf_path.read_bytes()):
+        return True  # already downloaded and well-formed, resumable skip
 
     pdf_path.parent.mkdir(parents=True, exist_ok=True)
     code = row["book_code"]
     chapter_no = row["chapter_no"]
+    original_url = official_chapter_url(code, chapter_no)
 
     if row["source"] == "official":
-        url = official_chapter_url(code, chapter_no)
+        candidate_urls = [original_url] * 2  # one retry on transient network failure
     else:
-        original_url = official_chapter_url(code, chapter_no)
-        snapshot = wayback_snapshot_url(session, original_url)
-        if not snapshot:
+        candidate_urls = wayback_all_snapshots(session, original_url)
+        if not candidate_urls:
             return False
-        url = snapshot
 
-    for attempt in range(2):
+    for i, url in enumerate(candidate_urls):
+        if i > 0:
+            time.sleep(1.5)  # back off before trying the next candidate snapshot
         try:
             resp = session.get(url, timeout=30)
             polite_sleep()

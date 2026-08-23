@@ -10,7 +10,7 @@
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_01.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_01.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -23,7 +23,7 @@
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_02.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_02.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -36,7 +36,7 @@
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_03.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_03.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -44,11 +44,11 @@
     "book": "Our Pasts I",
     "book_code": "fess1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "WHAT BOOKS AND BURIALS TELL US",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_04.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_04.txt",
-    "word_count": null,
+    "word_count": 2708,
     "status": "ok"
   },
   {
@@ -57,11 +57,11 @@
     "book": "Our Pasts I",
     "book_code": "fess1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "KINGDOMS, KINGS AND AN EARLY REPUBLIC",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_05.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_05.txt",
-    "word_count": null,
+    "word_count": 2137,
     "status": "ok"
   },
   {
@@ -75,7 +75,7 @@
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_06.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_06.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -83,11 +83,11 @@
     "book": "Our Pasts I",
     "book_code": "fess1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "FROM A KINGDOM TO AN EMPIRE",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_07.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_07.txt",
-    "word_count": null,
+    "word_count": 2686,
     "status": "ok"
   },
   {
@@ -96,11 +96,11 @@
     "book": "Our Pasts I",
     "book_code": "fess1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "VILLAGES, TOWNS AND TRADE",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_08.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_08.txt",
-    "word_count": null,
+    "word_count": 3307,
     "status": "ok"
   },
   {
@@ -109,11 +109,11 @@
     "book": "Our Pasts I",
     "book_code": "fess1",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "NEW EMPIRES AND KINGDOMS",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_09.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_09.txt",
-    "word_count": null,
+    "word_count": 2518,
     "status": "ok"
   },
   {
@@ -127,7 +127,7 @@
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_10.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_10.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -140,7 +140,7 @@
     "pdf_path": "data/raw_pdfs/History/Class6/Our_Pasts_I/ch_11.pdf",
     "text_path": "data/text/History/Class6/Our_Pasts_I/ch_11.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -148,11 +148,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "INTRODUCTION: TRACING CHANGES",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_01.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_01.txt",
-    "word_count": null,
+    "word_count": 3186,
     "status": "ok"
   },
   {
@@ -161,11 +161,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "KINGS AND KINGDOMS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_02.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_02.txt",
-    "word_count": null,
+    "word_count": 2846,
     "status": "ok"
   },
   {
@@ -174,11 +174,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "DELHI: 12th TO 15th CENTURY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_03.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_03.txt",
-    "word_count": null,
+    "word_count": 1745,
     "status": "ok"
   },
   {
@@ -187,11 +187,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "THE MUGHALS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_04.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_04.txt",
-    "word_count": null,
+    "word_count": 2146,
     "status": "ok"
   },
   {
@@ -200,11 +200,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "TRIBES, NOMADS AND SETTLED COMMUNITIES",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_05.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_05.txt",
-    "word_count": null,
+    "word_count": 2671,
     "status": "ok"
   },
   {
@@ -213,11 +213,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "DEVOTIONAL PATHS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_06.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_06.txt",
-    "word_count": null,
+    "word_count": 4111,
     "status": "ok"
   },
   {
@@ -226,11 +226,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "THE MAKING OF REGIONAL CULTURES",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_07.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_07.txt",
-    "word_count": null,
+    "word_count": 3214,
     "status": "ok"
   },
   {
@@ -239,11 +239,11 @@
     "book": "Our Pasts II",
     "book_code": "gess1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "EIGHTEENTH-CENTURY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class7/Our_Pasts_II/ch_08.pdf",
     "text_path": "data/text/History/Class7/Our_Pasts_II/ch_08.txt",
-    "word_count": null,
+    "word_count": 3776,
     "status": "ok"
   },
   {
@@ -252,11 +252,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Introduction:",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_01.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_01.txt",
-    "word_count": null,
+    "word_count": 4982,
     "status": "ok"
   },
   {
@@ -265,11 +265,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "From Trade to Territory",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_02.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_02.txt",
-    "word_count": null,
+    "word_count": 9455,
     "status": "ok"
   },
   {
@@ -278,11 +278,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Ruling the Countryside",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_03.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_03.txt",
-    "word_count": null,
+    "word_count": 6969,
     "status": "ok"
   },
   {
@@ -291,11 +291,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Tribals, Dikus and the Vision of a Golden Age",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_04.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_04.txt",
-    "word_count": null,
+    "word_count": 5723,
     "status": "ok"
   },
   {
@@ -304,11 +304,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "When People Revolt",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_05.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_05.txt",
-    "word_count": null,
+    "word_count": 5932,
     "status": "ok"
   },
   {
@@ -317,11 +317,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Civilising the “Native”, Educating the Nation",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_06.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_06.txt",
-    "word_count": null,
+    "word_count": 6755,
     "status": "ok"
   },
   {
@@ -330,11 +330,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Women, Caste and Reform",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_07.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_07.txt",
-    "word_count": null,
+    "word_count": 8395,
     "status": "ok"
   },
   {
@@ -343,11 +343,11 @@
     "book": "Our Pasts III",
     "book_code": "hess2",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "The Making of the National",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class8/Our_Pasts_III/ch_08.pdf",
     "text_path": "data/text/History/Class8/Our_Pasts_III/ch_08.txt",
-    "word_count": null,
+    "word_count": 10047,
     "status": "ok"
   },
   {
@@ -356,11 +356,11 @@
     "book": "India and the Contemporary World I",
     "book_code": "iess3",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "EVENTS AND PROCESSES",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_01.pdf",
     "text_path": "data/text/History/Class9/India_and_the_Contemporary_World_I/ch_01.txt",
-    "word_count": null,
+    "word_count": 9299,
     "status": "ok"
   },
   {
@@ -374,7 +374,7 @@
     "pdf_path": "data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_02.pdf",
     "text_path": "data/text/History/Class9/India_and_the_Contemporary_World_I/ch_02.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -382,11 +382,11 @@
     "book": "India and the Contemporary World I",
     "book_code": "iess3",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Nazism and the Rise",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_03.pdf",
     "text_path": "data/text/History/Class9/India_and_the_Contemporary_World_I/ch_03.txt",
-    "word_count": null,
+    "word_count": 9165,
     "status": "ok"
   },
   {
@@ -400,7 +400,7 @@
     "pdf_path": "data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_04.pdf",
     "text_path": "data/text/History/Class9/India_and_the_Contemporary_World_I/ch_04.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "History",
@@ -408,11 +408,11 @@
     "book": "India and the Contemporary World I",
     "book_code": "iess3",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Pastoralists in the Modern World",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_05.pdf",
     "text_path": "data/text/History/Class9/India_and_the_Contemporary_World_I/ch_05.txt",
-    "word_count": null,
+    "word_count": 7745,
     "status": "ok"
   },
   {
@@ -421,11 +421,11 @@
     "book": "India and the Contemporary World I",
     "book_code": "iess3",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Peasants and Farmers",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/History/Class9/India_and_the_Contemporary_World_I/ch_06.pdf",
     "text_path": "data/text/History/Class9/India_and_the_Contemporary_World_I/ch_06.txt",
-    "word_count": null,
+    "word_count": 8221,
     "status": "ok"
   },
   {
@@ -434,11 +434,11 @@
     "book": "India and the Contemporary World II",
     "book_code": "jess3",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "EVENTS AND PROCESSES",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_01.pdf",
     "text_path": "data/text/History/Class10/India_and_the_Contemporary_World_II/ch_01.txt",
-    "word_count": null,
+    "word_count": 11537,
     "status": "ok"
   },
   {
@@ -447,11 +447,11 @@
     "book": "India and the Contemporary World II",
     "book_code": "jess3",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Nationalism in India",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_02.pdf",
     "text_path": "data/text/History/Class10/India_and_the_Contemporary_World_II/ch_02.txt",
-    "word_count": null,
+    "word_count": 9576,
     "status": "ok"
   },
   {
@@ -460,11 +460,11 @@
     "book": "India and the Contemporary World II",
     "book_code": "jess3",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "LIVELIHOODS, ECONOMIES AND SOCIETIES",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_03.pdf",
     "text_path": "data/text/History/Class10/India_and_the_Contemporary_World_II/ch_03.txt",
-    "word_count": null,
+    "word_count": 11247,
     "status": "ok"
   },
   {
@@ -473,11 +473,11 @@
     "book": "India and the Contemporary World II",
     "book_code": "jess3",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "The Age of Industrialisation",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_04.pdf",
     "text_path": "data/text/History/Class10/India_and_the_Contemporary_World_II/ch_04.txt",
-    "word_count": null,
+    "word_count": 9445,
     "status": "ok"
   },
   {
@@ -486,11 +486,11 @@
     "book": "India and the Contemporary World II",
     "book_code": "jess3",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "EVERYDAY LIFE, CULTURE AND POLITICS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class10/India_and_the_Contemporary_World_II/ch_05.pdf",
     "text_path": "data/text/History/Class10/India_and_the_Contemporary_World_II/ch_05.txt",
-    "word_count": null,
+    "word_count": 11319,
     "status": "ok"
   },
   {
@@ -499,11 +499,11 @@
     "book": "Themes in World History",
     "book_code": "kehs1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "early societies",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class11/Themes_in_World_History/ch_01.pdf",
     "text_path": "data/text/History/Class11/Themes_in_World_History/ch_01.txt",
-    "word_count": null,
+    "word_count": 11647,
     "status": "ok"
   },
   {
@@ -512,11 +512,11 @@
     "book": "Themes in World History",
     "book_code": "kehs1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "empires",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class11/Themes_in_World_History/ch_02.pdf",
     "text_path": "data/text/History/Class11/Themes_in_World_History/ch_02.txt",
-    "word_count": null,
+    "word_count": 27189,
     "status": "ok"
   },
   {
@@ -525,11 +525,11 @@
     "book": "Themes in World History",
     "book_code": "kehs1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "CHANGING TRADITIONS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class11/Themes_in_World_History/ch_03.pdf",
     "text_path": "data/text/History/Class11/Themes_in_World_History/ch_03.txt",
-    "word_count": null,
+    "word_count": 2032,
     "status": "ok"
   },
   {
@@ -538,11 +538,11 @@
     "book": "Themes in World History",
     "book_code": "kehs1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "T4HEME 86 THEMES IN WORLD HISTORY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class11/Themes_in_World_History/ch_04.pdf",
     "text_path": "data/text/History/Class11/Themes_in_World_History/ch_04.txt",
-    "word_count": null,
+    "word_count": 8332,
     "status": "ok"
   },
   {
@@ -551,11 +551,11 @@
     "book": "Themes in World History",
     "book_code": "kehs1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "T5HEME",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class11/Themes_in_World_History/ch_05.pdf",
     "text_path": "data/text/History/Class11/Themes_in_World_History/ch_05.txt",
-    "word_count": null,
+    "word_count": 7464,
     "status": "ok"
   },
   {
@@ -564,11 +564,11 @@
     "book": "Themes in World History",
     "book_code": "kehs1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "TOWARDS Modernisation",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class11/Themes_in_World_History/ch_06.pdf",
     "text_path": "data/text/History/Class11/Themes_in_World_History/ch_06.txt",
-    "word_count": null,
+    "word_count": 12753,
     "status": "ok"
   },
   {
@@ -577,11 +577,11 @@
     "book": "Themes in World History",
     "book_code": "kehs1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "153 T7HEME",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class11/Themes_in_World_History/ch_07.pdf",
     "text_path": "data/text/History/Class11/Themes_in_World_History/ch_07.txt",
-    "word_count": null,
+    "word_count": 14305,
     "status": "ok"
   },
   {
@@ -590,11 +590,11 @@
     "book": "Themes in Indian History I",
     "book_code": "lehs1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "THEME Bricks, Beads and Bones",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_01.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_I/ch_01.txt",
-    "word_count": null,
+    "word_count": 12621,
     "status": "ok"
   },
   {
@@ -603,11 +603,11 @@
     "book": "Themes in Indian History I",
     "book_code": "lehs1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "THEMES IN INDIAN HISTORY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_02.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_I/ch_02.txt",
-    "word_count": null,
+    "word_count": 15272,
     "status": "ok"
   },
   {
@@ -616,11 +616,11 @@
     "book": "Themes in Indian History I",
     "book_code": "lehs1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Kinship, Caste and Class",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_03.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_I/ch_03.txt",
-    "word_count": null,
+    "word_count": 13492,
     "status": "ok"
   },
   {
@@ -629,11 +629,11 @@
     "book": "Themes in Indian History I",
     "book_code": "lehs1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "THEMES IN INDIAN HISTORY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_I/ch_04.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_I/ch_04.txt",
-    "word_count": null,
+    "word_count": 11962,
     "status": "ok"
   },
   {
@@ -642,11 +642,11 @@
     "book": "Themes in Indian History II",
     "book_code": "lehs2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Through the Eyes of Travellers",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_01.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_II/ch_01.txt",
-    "word_count": null,
+    "word_count": 15600,
     "status": "ok"
   },
   {
@@ -655,11 +655,11 @@
     "book": "Themes in Indian History II",
     "book_code": "lehs2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "140 THEMES IN INDIAN HISTORY – PART II",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_02.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_II/ch_02.txt",
-    "word_count": null,
+    "word_count": 16085,
     "status": "ok"
   },
   {
@@ -668,11 +668,11 @@
     "book": "Themes in Indian History II",
     "book_code": "lehs2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "170 THEMES IN INDIAN HISTORY – PART II",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_03.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_II/ch_03.txt",
-    "word_count": null,
+    "word_count": 10913,
     "status": "ok"
   },
   {
@@ -681,11 +681,11 @@
     "book": "Themes in Indian History II",
     "book_code": "lehs2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "196 THEMES IN INDIAN HISTORY – PART II",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_II/ch_04.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_II/ch_04.txt",
-    "word_count": null,
+    "word_count": 15827,
     "status": "ok"
   },
   {
@@ -694,11 +694,11 @@
     "book": "Themes in Indian History III",
     "book_code": "lehs3",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Colonialism and the THEME Countryside",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_01.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_III/ch_01.txt",
-    "word_count": null,
+    "word_count": 16931,
     "status": "ok"
   },
   {
@@ -707,11 +707,11 @@
     "book": "Themes in Indian History III",
     "book_code": "lehs3",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "258 THEMES IN INDIAN HISTORY – PART III",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_02.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_III/ch_02.txt",
-    "word_count": null,
+    "word_count": 14135,
     "status": "ok"
   },
   {
@@ -720,11 +720,11 @@
     "book": "Themes in Indian History III",
     "book_code": "lehs3",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "286 THEMES IN INDIAN HISTORY – PART III",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_03.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_III/ch_03.txt",
-    "word_count": null,
+    "word_count": 16622,
     "status": "ok"
   },
   {
@@ -733,11 +733,11 @@
     "book": "Themes in Indian History III",
     "book_code": "lehs3",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Framing the Constitution",
     "source": "official",
     "pdf_path": "data/raw_pdfs/History/Class12/Themes_in_Indian_History_III/ch_04.pdf",
     "text_path": "data/text/History/Class12/Themes_in_Indian_History_III/ch_04.txt",
-    "word_count": null,
+    "word_count": 14094,
     "status": "ok"
   },
   {
@@ -751,7 +751,7 @@
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_01.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_01.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Geography",
@@ -759,11 +759,11 @@
     "book": "The Earth Our Habitat",
     "book_code": "fess2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "GLOBE : LATITUDES AND LONGITUDES",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_02.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_02.txt",
-    "word_count": null,
+    "word_count": 2718,
     "status": "ok"
   },
   {
@@ -772,11 +772,11 @@
     "book": "The Earth Our Habitat",
     "book_code": "fess2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "MOTIONS OF THE EARTH",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_03.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_03.txt",
-    "word_count": null,
+    "word_count": 1969,
     "status": "ok"
   },
   {
@@ -790,7 +790,7 @@
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_04.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_04.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Geography",
@@ -798,11 +798,11 @@
     "book": "The Earth Our Habitat",
     "book_code": "fess2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "MAJOR DOMAINS OF THE EARTH",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_05.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_05.txt",
-    "word_count": null,
+    "word_count": 2788,
     "status": "ok"
   },
   {
@@ -816,7 +816,7 @@
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_06.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_06.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Geography",
@@ -824,11 +824,11 @@
     "book": "The Earth Our Habitat",
     "book_code": "fess2",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "OUR COUNTRY – INDIA",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_07.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_07.txt",
-    "word_count": null,
+    "word_count": 1855,
     "status": "ok"
   },
   {
@@ -837,11 +837,11 @@
     "book": "The Earth Our Habitat",
     "book_code": "fess2",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "INDIA : CLIMATE, VEGETATION AND WILDLIFE",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class6/The_Earth_Our_Habitat/ch_08.pdf",
     "text_path": "data/text/Geography/Class6/The_Earth_Our_Habitat/ch_08.txt",
-    "word_count": null,
+    "word_count": 2048,
     "status": "ok"
   },
   {
@@ -850,11 +850,11 @@
     "book": "Our Environment",
     "book_code": "gess2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Environment",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class7/Our_Environment/ch_01.pdf",
     "text_path": "data/text/Geography/Class7/Our_Environment/ch_01.txt",
-    "word_count": null,
+    "word_count": 2099,
     "status": "ok"
   },
   {
@@ -863,11 +863,11 @@
     "book": "Our Environment",
     "book_code": "gess2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Inside Our Earth",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class7/Our_Environment/ch_02.pdf",
     "text_path": "data/text/Geography/Class7/Our_Environment/ch_02.txt",
-    "word_count": null,
+    "word_count": 1837,
     "status": "ok"
   },
   {
@@ -876,11 +876,11 @@
     "book": "Our Environment",
     "book_code": "gess2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Our Changing Earth",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class7/Our_Environment/ch_03.pdf",
     "text_path": "data/text/Geography/Class7/Our_Environment/ch_03.txt",
-    "word_count": null,
+    "word_count": 3090,
     "status": "ok"
   },
   {
@@ -889,11 +889,11 @@
     "book": "Our Environment",
     "book_code": "gess2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Do you know? Our earth is surrounded by a huge blanket of air",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class7/Our_Environment/ch_04.pdf",
     "text_path": "data/text/Geography/Class7/Our_Environment/ch_04.txt",
-    "word_count": null,
+    "word_count": 3520,
     "status": "ok"
   },
   {
@@ -902,11 +902,11 @@
     "book": "Our Environment",
     "book_code": "gess2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Water",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class7/Our_Environment/ch_05.pdf",
     "text_path": "data/text/Geography/Class7/Our_Environment/ch_05.txt",
-    "word_count": null,
+    "word_count": 2976,
     "status": "ok"
   },
   {
@@ -915,11 +915,11 @@
     "book": "Our Environment",
     "book_code": "gess2",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Renuka was excited. Shrikant Uncle was home after a gap of nearly four months. He was a wildlife photographer",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class7/Our_Environment/ch_06.pdf",
     "text_path": "data/text/Geography/Class7/Our_Environment/ch_06.txt",
-    "word_count": null,
+    "word_count": 3746,
     "status": "ok"
   },
   {
@@ -928,11 +928,11 @@
     "book": "Our Environment",
     "book_code": "gess2",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "In Chapter 5, you have seen that water means life to plants, animals and people. It is difficult for anyone to live in places where there is no water to drink, where Glossary",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class7/Our_Environment/ch_07.pdf",
     "text_path": "data/text/Geography/Class7/Our_Environment/ch_07.txt",
-    "word_count": null,
+    "word_count": 2743,
     "status": "ok"
   },
   {
@@ -941,11 +941,11 @@
     "book": "Resource and Development",
     "book_code": "hess4",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Resources",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_01.pdf",
     "text_path": "data/text/Geography/Class8/Resource_and_Development/ch_01.txt",
-    "word_count": null,
+    "word_count": 2742,
     "status": "ok"
   },
   {
@@ -954,11 +954,11 @@
     "book": "Resource and Development",
     "book_code": "hess4",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Land, Soil, Water, Natural Vegetation",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_02.pdf",
     "text_path": "data/text/Geography/Class8/Resource_and_Development/ch_02.txt",
-    "word_count": null,
+    "word_count": 5100,
     "status": "ok"
   },
   {
@@ -967,11 +967,11 @@
     "book": "Resource and Development",
     "book_code": "hess4",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Agriculture",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_03.pdf",
     "text_path": "data/text/Geography/Class8/Resource_and_Development/ch_03.txt",
-    "word_count": null,
+    "word_count": 3118,
     "status": "ok"
   },
   {
@@ -980,11 +980,11 @@
     "book": "Resource and Development",
     "book_code": "hess4",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "InIdnudsutrsitersies",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_04.pdf",
     "text_path": "data/text/Geography/Class8/Resource_and_Development/ch_04.txt",
-    "word_count": null,
+    "word_count": 3370,
     "status": "ok"
   },
   {
@@ -993,11 +993,11 @@
     "book": "Resource and Development",
     "book_code": "hess4",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Human Resources",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class8/Resource_and_Development/ch_05.pdf",
     "text_path": "data/text/Geography/Class8/Resource_and_Development/ch_05.txt",
-    "word_count": null,
+    "word_count": 2740,
     "status": "ok"
   },
   {
@@ -1006,11 +1006,11 @@
     "book": "Contemporary India I",
     "book_code": "iess1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "INDIA – SIZE AND LOCATION",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_01.pdf",
     "text_path": "data/text/Geography/Class9/Contemporary_India_I/ch_01.txt",
-    "word_count": null,
+    "word_count": 2227,
     "status": "ok"
   },
   {
@@ -1019,11 +1019,11 @@
     "book": "Contemporary India I",
     "book_code": "iess1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "PHYSICAL FEATURES OF INDIA",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_02.pdf",
     "text_path": "data/text/Geography/Class9/Contemporary_India_I/ch_02.txt",
-    "word_count": null,
+    "word_count": 4541,
     "status": "ok"
   },
   {
@@ -1032,11 +1032,11 @@
     "book": "Contemporary India I",
     "book_code": "iess1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "DRAINAGE",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_03.pdf",
     "text_path": "data/text/Geography/Class9/Contemporary_India_I/ch_03.txt",
-    "word_count": null,
+    "word_count": 5747,
     "status": "ok"
   },
   {
@@ -1045,11 +1045,11 @@
     "book": "Contemporary India I",
     "book_code": "iess1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "CLIMATE",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_04.pdf",
     "text_path": "data/text/Geography/Class9/Contemporary_India_I/ch_04.txt",
-    "word_count": null,
+    "word_count": 8341,
     "status": "ok"
   },
   {
@@ -1058,11 +1058,11 @@
     "book": "Contemporary India I",
     "book_code": "iess1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "NATURAL VEGETATION AND WILDLIFE",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_05.pdf",
     "text_path": "data/text/Geography/Class9/Contemporary_India_I/ch_05.txt",
-    "word_count": null,
+    "word_count": 3565,
     "status": "ok"
   },
   {
@@ -1076,7 +1076,7 @@
     "pdf_path": "data/raw_pdfs/Geography/Class9/Contemporary_India_I/ch_06.pdf",
     "text_path": "data/text/Geography/Class9/Contemporary_India_I/ch_06.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Geography",
@@ -1084,11 +1084,11 @@
     "book": "Contemporary India II",
     "book_code": "jess1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "C u a s n a e d n d y i t n o o u w m i n a d s k e . i n n L t g i i f s y li t f a e t n h c d o e m n i a t f e o m m rt e a s b t h l a e e n i v n d a o r n i u o a r u m v s i l e i l t a e g t ",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_01.pdf",
     "text_path": "data/text/Geography/Class10/Contemporary_India_II/ch_01.txt",
-    "word_count": null,
+    "word_count": 7330,
     "status": "ok"
   },
   {
@@ -1097,11 +1097,11 @@
     "book": "Contemporary India II",
     "book_code": "jess1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Flora and Fauna in India",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_02.pdf",
     "text_path": "data/text/Geography/Class10/Contemporary_India_II/ch_02.txt",
-    "word_count": null,
+    "word_count": 4392,
     "status": "ok"
   },
   {
@@ -1110,11 +1110,11 @@
     "book": "Contemporary India II",
     "book_code": "jess1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "You already know that three-fourth of the WATER SCARCITY AND THE NEED FOR WATER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_03.pdf",
     "text_path": "data/text/Geography/Class10/Contemporary_India_II/ch_03.txt",
-    "word_count": null,
+    "word_count": 6651,
     "status": "ok"
   },
   {
@@ -1123,11 +1123,11 @@
     "book": "Contemporary India II",
     "book_code": "jess1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "India is an agriculturally important country. through natural processes; land productivity",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_04.pdf",
     "text_path": "data/text/Geography/Class10/Contemporary_India_II/ch_04.txt",
-    "word_count": null,
+    "word_count": 6560,
     "status": "ok"
   },
   {
@@ -1136,11 +1136,11 @@
     "book": "Contemporary India II",
     "book_code": "jess1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Haban comes to Guwahati with his father A bright smile from toothpaste",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_05.pdf",
     "text_path": "data/text/Geography/Class10/Contemporary_India_II/ch_05.txt",
-    "word_count": null,
+    "word_count": 7757,
     "status": "ok"
   },
   {
@@ -1149,11 +1149,11 @@
     "book": "Contemporary India II",
     "book_code": "jess1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "On the occassion of Diwali, Harish went to IMPORTANCE OF MANUFACTURING",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_06.pdf",
     "text_path": "data/text/Geography/Class10/Contemporary_India_II/ch_06.txt",
-    "word_count": null,
+    "word_count": 6496,
     "status": "ok"
   },
   {
@@ -1162,11 +1162,11 @@
     "book": "Contemporary India II",
     "book_code": "jess1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "We use different materials and services in our the help of equally developed communication",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class10/Contemporary_India_II/ch_07.pdf",
     "text_path": "data/text/Geography/Class10/Contemporary_India_II/ch_07.txt",
-    "word_count": null,
+    "word_count": 7237,
     "status": "ok"
   },
   {
@@ -1175,11 +1175,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "GEOGRAPHY AS A DISCIPLINE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_01.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_01.txt",
-    "word_count": null,
+    "word_count": 5607,
     "status": "ok"
   },
   {
@@ -1188,11 +1188,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_02.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_02.txt",
-    "word_count": null,
+    "word_count": 3098,
     "status": "ok"
   },
   {
@@ -1201,11 +1201,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_03.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_03.txt",
-    "word_count": null,
+    "word_count": 6135,
     "status": "ok"
   },
   {
@@ -1214,11 +1214,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "DISTRIBUTION OF OCEANS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_04.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_04.txt",
-    "word_count": null,
+    "word_count": 5427,
     "status": "ok"
   },
   {
@@ -1227,11 +1227,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "LANDFORMS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_05.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_05.txt",
-    "word_count": null,
+    "word_count": 8759,
     "status": "ok"
   },
   {
@@ -1240,11 +1240,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "LANDFORMS AND THEIR",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_06.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_06.txt",
-    "word_count": null,
+    "word_count": 12459,
     "status": "ok"
   },
   {
@@ -1253,11 +1253,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "CLIMATE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_07.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_07.txt",
-    "word_count": null,
+    "word_count": 2745,
     "status": "ok"
   },
   {
@@ -1266,11 +1266,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "SOLAR RADIATION, HEAT BALANCE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_08.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_08.txt",
-    "word_count": null,
+    "word_count": 3394,
     "status": "ok"
   },
   {
@@ -1279,11 +1279,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "ATMOSPHERIC CIRCULATION",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_09.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_09.txt",
-    "word_count": null,
+    "word_count": 6123,
     "status": "ok"
   },
   {
@@ -1292,11 +1292,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 10,
-    "chapter_title": null,
+    "chapter_title": "WATER IN THE ATMOSPHERE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_10.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_10.txt",
-    "word_count": null,
+    "word_count": 4902,
     "status": "ok"
   },
   {
@@ -1305,11 +1305,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 11,
-    "chapter_title": null,
+    "chapter_title": "WORLD CLIMATE AND CLIMATE CHANGE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_11.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_11.txt",
-    "word_count": null,
+    "word_count": 7053,
     "status": "ok"
   },
   {
@@ -1318,11 +1318,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 12,
-    "chapter_title": null,
+    "chapter_title": "WATER (OCEANS)",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_12.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_12.txt",
-    "word_count": null,
+    "word_count": 5327,
     "status": "ok"
   },
   {
@@ -1331,11 +1331,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 13,
-    "chapter_title": null,
+    "chapter_title": "MOVEMENTS OF OCEAN WATER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_13.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_13.txt",
-    "word_count": null,
+    "word_count": 5370,
     "status": "ok"
   },
   {
@@ -1344,11 +1344,11 @@
     "book": "Fundamentals of Physical Geography",
     "book_code": "kegy2",
     "chapter_no": 14,
-    "chapter_title": null,
+    "chapter_title": "114 FUNDAMENTALS OF PHYSICAL GEOGRAPHY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/Fundamentals_of_Physical_Geography/ch_14.pdf",
     "text_path": "data/text/Geography/Class11/Fundamentals_of_Physical_Geography/ch_14.txt",
-    "word_count": null,
+    "word_count": 4317,
     "status": "ok"
   },
   {
@@ -1357,11 +1357,11 @@
     "book": "India Physical Environment",
     "book_code": "kegy1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "This unit deals with",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_01.pdf",
     "text_path": "data/text/Geography/Class11/India_Physical_Environment/ch_01.txt",
-    "word_count": null,
+    "word_count": 1603,
     "status": "ok"
   },
   {
@@ -1370,11 +1370,11 @@
     "book": "India Physical Environment",
     "book_code": "kegy1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "PHYSIOGRAPHY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_02.pdf",
     "text_path": "data/text/Geography/Class11/India_Physical_Environment/ch_02.txt",
-    "word_count": null,
+    "word_count": 9099,
     "status": "ok"
   },
   {
@@ -1383,11 +1383,11 @@
     "book": "India Physical Environment",
     "book_code": "kegy1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "DRAINAGE SYSTEM",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_03.pdf",
     "text_path": "data/text/Geography/Class11/India_Physical_Environment/ch_03.txt",
-    "word_count": null,
+    "word_count": 11062,
     "status": "ok"
   },
   {
@@ -1396,11 +1396,11 @@
     "book": "India Physical Environment",
     "book_code": "kegy1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "CLIMATE AND VEGETATION",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_04.pdf",
     "text_path": "data/text/Geography/Class11/India_Physical_Environment/ch_04.txt",
-    "word_count": null,
+    "word_count": 11191,
     "status": "ok"
   },
   {
@@ -1409,11 +1409,11 @@
     "book": "India Physical Environment",
     "book_code": "kegy1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "NATURAL VEGETATION",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_05.pdf",
     "text_path": "data/text/Geography/Class11/India_Physical_Environment/ch_05.txt",
-    "word_count": null,
+    "word_count": 4725,
     "status": "ok"
   },
   {
@@ -1422,11 +1422,11 @@
     "book": "India Physical Environment",
     "book_code": "kegy1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "NATURAL HAZARDS AND DISASTERS:",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class11/India_Physical_Environment/ch_06.pdf",
     "text_path": "data/text/Geography/Class11/India_Physical_Environment/ch_06.txt",
-    "word_count": null,
+    "word_count": 13677,
     "status": "ok"
   },
   {
@@ -1435,11 +1435,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Unit-I Y D o i u sc h ip a l v i e n e a ’ l re in ad y C h st a u p d t i e e r d I ‘G e o o f gr t a h p e h y b o a o s k a , Chapter-1 Fundamentals of Physical Geography (NCERT, 2006). Do you reca",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_01.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_01.txt",
-    "word_count": null,
+    "word_count": 4593,
     "status": "ok"
   },
   {
@@ -1448,11 +1448,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Unit-II The people of a country are its real wealth. It",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_02.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_02.txt",
-    "word_count": null,
+    "word_count": 4411,
     "status": "ok"
   },
   {
@@ -1461,11 +1461,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Band Aceh, June, 2004 Band Aceh, December, 2004",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_03.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_03.txt",
-    "word_count": null,
+    "word_count": 4615,
     "status": "ok"
   },
   {
@@ -1474,11 +1474,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Unit-III Human activities which generate income are",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_04.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_04.txt",
-    "word_count": null,
+    "word_count": 5807,
     "status": "ok"
   },
   {
@@ -1487,11 +1487,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Unit-III All economic activities namely primary, Chapter-5 s a e r c o o u n n d d a r o y b , t t a e i r n ti i a n r g y a a n n d d u qu ti a li t s e i r n n g a r r y e , s r o e u v r o c l e v",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_05.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_05.txt",
-    "word_count": null,
+    "word_count": 5305,
     "status": "ok"
   },
   {
@@ -1500,11 +1500,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Unit-III When you fall ill you go to your family doctor",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_06.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_06.txt",
-    "word_count": null,
+    "word_count": 6323,
     "status": "ok"
   },
   {
@@ -1513,11 +1513,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Unit-III Natural resources, economic activities and Chapter-7 m Tr a an rk sp e o ts rt , a c r o e m m ra u r n el ic y a t f i o o u n n a d nd i t n ra o de n e es t p a l b a l c is e h .",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_07.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_07.txt",
-    "word_count": null,
+    "word_count": 9161,
     "status": "ok"
   },
   {
@@ -1526,11 +1526,11 @@
     "book": "Fundamentals of Human Geography",
     "book_code": "legy1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Unit-III You are already familiar with the term “trade”",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/Fundamentals_of_Human_Geography/ch_08.pdf",
     "text_path": "data/text/Geography/Class12/Fundamentals_of_Human_Geography/ch_08.txt",
-    "word_count": null,
+    "word_count": 5120,
     "status": "ok"
   },
   {
@@ -1539,11 +1539,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Unit I The people are very important component of a Chapter 1 c co o u u n n t t r r y y . a I f n te d r i a C h is in t a h e in s t e h c e o n w d o r m ld o w st it h po i p ts u t l o o t u a s ",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_01.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_01.txt",
-    "word_count": null,
+    "word_count": 10182,
     "status": "ok"
   },
   {
@@ -1552,11 +1552,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Unit II Human Settlement means cluster of dwellings",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_02.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_02.txt",
-    "word_count": null,
+    "word_count": 3742,
     "status": "ok"
   },
   {
@@ -1565,11 +1565,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Unit III You must have observed that the land around",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_03.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_03.txt",
-    "word_count": null,
+    "word_count": 13310,
     "status": "ok"
   },
   {
@@ -1578,11 +1578,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Unit III Do you think that what exists today will",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_04.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_04.txt",
-    "word_count": null,
+    "word_count": 5829,
     "status": "ok"
   },
   {
@@ -1591,11 +1591,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Unit III India is endowed with a rich variety of mineral",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_05.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_05.txt",
-    "word_count": null,
+    "word_count": 5317,
     "status": "ok"
   },
   {
@@ -1604,11 +1604,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Unit III The word ‘planning’ is not new to you as it is",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_06.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_06.txt",
-    "word_count": null,
+    "word_count": 4564,
     "status": "ok"
   },
   {
@@ -1617,11 +1617,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Unit IV We use many items in our daily life. From",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_07.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_07.txt",
-    "word_count": null,
+    "word_count": 5256,
     "status": "ok"
   },
   {
@@ -1630,11 +1630,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Unit IV You have already studied about the various",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_08.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_08.txt",
-    "word_count": null,
+    "word_count": 3619,
     "status": "ok"
   },
   {
@@ -1643,11 +1643,11 @@
     "book": "India People and Economy",
     "book_code": "legy2",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "Unit V Environmental Pollution",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Geography/Class12/India_People_and_Economy/ch_09.pdf",
     "text_path": "data/text/Geography/Class12/India_People_and_Economy/ch_09.txt",
-    "word_count": null,
+    "word_count": 6930,
     "status": "ok"
   },
   {
@@ -1656,11 +1656,11 @@
     "book": "Democratic Politics I",
     "book_code": "iess4",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "What is",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_01.pdf",
     "text_path": "data/text/Polity/Class9/Democratic_Politics_I/ch_01.txt",
-    "word_count": null,
+    "word_count": 10776,
     "status": "ok"
   },
   {
@@ -1674,7 +1674,7 @@
     "pdf_path": "data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_02.pdf",
     "text_path": "data/text/Polity/Class9/Democratic_Politics_I/ch_02.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Polity",
@@ -1682,11 +1682,11 @@
     "book": "Democratic Politics I",
     "book_code": "iess4",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Electoral",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_03.pdf",
     "text_path": "data/text/Polity/Class9/Democratic_Politics_I/ch_03.txt",
-    "word_count": null,
+    "word_count": 11830,
     "status": "ok"
   },
   {
@@ -1700,7 +1700,7 @@
     "pdf_path": "data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_04.pdf",
     "text_path": "data/text/Polity/Class9/Democratic_Politics_I/ch_04.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Polity",
@@ -1708,11 +1708,11 @@
     "book": "Democratic Politics I",
     "book_code": "iess4",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "DEMOCRATIC",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Polity/Class9/Democratic_Politics_I/ch_05.pdf",
     "text_path": "data/text/Polity/Class9/Democratic_Politics_I/ch_05.txt",
-    "word_count": null,
+    "word_count": 12363,
     "status": "ok"
   },
   {
@@ -1721,11 +1721,11 @@
     "book": "Democratic Politics II",
     "book_code": "jess4",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Power-sharing",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_01.pdf",
     "text_path": "data/text/Polity/Class10/Democratic_Politics_II/ch_01.txt",
-    "word_count": null,
+    "word_count": 5963,
     "status": "ok"
   },
   {
@@ -1734,11 +1734,11 @@
     "book": "Democratic Politics II",
     "book_code": "jess4",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Federalism",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_02.pdf",
     "text_path": "data/text/Polity/Class10/Democratic_Politics_II/ch_02.txt",
-    "word_count": null,
+    "word_count": 8345,
     "status": "ok"
   },
   {
@@ -1747,11 +1747,11 @@
     "book": "Democratic Politics II",
     "book_code": "jess4",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Gender, Religion and Caste",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_03.pdf",
     "text_path": "data/text/Polity/Class10/Democratic_Politics_II/ch_03.txt",
-    "word_count": null,
+    "word_count": 8201,
     "status": "ok"
   },
   {
@@ -1760,11 +1760,11 @@
     "book": "Democratic Politics II",
     "book_code": "jess4",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Political Parties",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_04.pdf",
     "text_path": "data/text/Polity/Class10/Democratic_Politics_II/ch_04.txt",
-    "word_count": null,
+    "word_count": 8158,
     "status": "ok"
   },
   {
@@ -1773,11 +1773,11 @@
     "book": "Democratic Politics II",
     "book_code": "jess4",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Outcomes of Democracy",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class10/Democratic_Politics_II/ch_05.pdf",
     "text_path": "data/text/Polity/Class10/Democratic_Politics_II/ch_05.txt",
-    "word_count": null,
+    "word_count": 5699,
     "status": "ok"
   },
   {
@@ -1786,11 +1786,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Equality",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_01.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_01.txt",
-    "word_count": null,
+    "word_count": 5629,
     "status": "ok"
   },
   {
@@ -1799,11 +1799,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Freedom",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_02.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_02.txt",
-    "word_count": null,
+    "word_count": 6981,
     "status": "ok"
   },
   {
@@ -1812,11 +1812,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Equality",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_03.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_03.txt",
-    "word_count": null,
+    "word_count": 7640,
     "status": "ok"
   },
   {
@@ -1825,11 +1825,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Social Justice",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_04.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_04.txt",
-    "word_count": null,
+    "word_count": 5132,
     "status": "ok"
   },
   {
@@ -1838,11 +1838,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Rights",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_05.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_05.txt",
-    "word_count": null,
+    "word_count": 4813,
     "status": "ok"
   },
   {
@@ -1851,11 +1851,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Citizenship",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_06.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_06.txt",
-    "word_count": null,
+    "word_count": 7549,
     "status": "ok"
   },
   {
@@ -1864,11 +1864,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Nationalism",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_07.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_07.txt",
-    "word_count": null,
+    "word_count": 4523,
     "status": "ok"
   },
   {
@@ -1877,11 +1877,11 @@
     "book": "Political Theory",
     "book_code": "keps1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Secularism",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Political_Theory/ch_08.pdf",
     "text_path": "data/text/Polity/Class11/Political_Theory/ch_08.txt",
-    "word_count": null,
+    "word_count": 7031,
     "status": "ok"
   },
   {
@@ -1890,11 +1890,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Chapter 1: Constitution: Why and How?",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_01.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_01.txt",
-    "word_count": null,
+    "word_count": 9394,
     "status": "ok"
   },
   {
@@ -1903,11 +1903,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_02.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_02.txt",
-    "word_count": null,
+    "word_count": 8299,
     "status": "ok"
   },
   {
@@ -1916,11 +1916,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Chapter 3: Election and Representation",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_03.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_03.txt",
-    "word_count": null,
+    "word_count": 8363,
     "status": "ok"
   },
   {
@@ -1929,11 +1929,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_04.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_04.txt",
-    "word_count": null,
+    "word_count": 6872,
     "status": "ok"
   },
   {
@@ -1942,11 +1942,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_05.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_05.txt",
-    "word_count": null,
+    "word_count": 7340,
     "status": "ok"
   },
   {
@@ -1955,11 +1955,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_06.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_06.txt",
-    "word_count": null,
+    "word_count": 7783,
     "status": "ok"
   },
   {
@@ -1968,11 +1968,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_07.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_07.txt",
-    "word_count": null,
+    "word_count": 8082,
     "status": "ok"
   },
   {
@@ -1981,11 +1981,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_08.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_08.txt",
-    "word_count": null,
+    "word_count": 5779,
     "status": "ok"
   },
   {
@@ -1994,11 +1994,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_09.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_09.txt",
-    "word_count": null,
+    "word_count": 8171,
     "status": "ok"
   },
   {
@@ -2007,11 +2007,11 @@
     "book": "Indian Constitution at Work",
     "book_code": "keps2",
     "chapter_no": 10,
-    "chapter_title": null,
+    "chapter_title": "Indian Constitution at Work",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class11/Indian_Constitution_at_Work/ch_10.pdf",
     "text_path": "data/text/Polity/Class11/Indian_Constitution_at_Work/ch_10.txt",
-    "word_count": null,
+    "word_count": 7833,
     "status": "ok"
   },
   {
@@ -2020,11 +2020,11 @@
     "book": "Contemporary World Politics",
     "book_code": "leps1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "The End of Bipolarity",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_01.pdf",
     "text_path": "data/text/Polity/Class12/Contemporary_World_Politics/ch_01.txt",
-    "word_count": null,
+    "word_count": 13146,
     "status": "ok"
   },
   {
@@ -2033,11 +2033,11 @@
     "book": "Contemporary World Politics",
     "book_code": "leps1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Contemporary",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_02.pdf",
     "text_path": "data/text/Polity/Class12/Contemporary_World_Politics/ch_02.txt",
-    "word_count": null,
+    "word_count": 8866,
     "status": "ok"
   },
   {
@@ -2046,11 +2046,11 @@
     "book": "Contemporary World Politics",
     "book_code": "leps1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Contemporary South Asia",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_03.pdf",
     "text_path": "data/text/Polity/Class12/Contemporary_World_Politics/ch_03.txt",
-    "word_count": null,
+    "word_count": 11178,
     "status": "ok"
   },
   {
@@ -2059,11 +2059,11 @@
     "book": "Contemporary World Politics",
     "book_code": "leps1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "International Organisations",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_04.pdf",
     "text_path": "data/text/Polity/Class12/Contemporary_World_Politics/ch_04.txt",
-    "word_count": null,
+    "word_count": 11425,
     "status": "ok"
   },
   {
@@ -2072,11 +2072,11 @@
     "book": "Contemporary World Politics",
     "book_code": "leps1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Security in the Contemporary World",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_05.pdf",
     "text_path": "data/text/Polity/Class12/Contemporary_World_Politics/ch_05.txt",
-    "word_count": null,
+    "word_count": 9248,
     "status": "ok"
   },
   {
@@ -2085,11 +2085,11 @@
     "book": "Contemporary World Politics",
     "book_code": "leps1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Environment and Natural Resources",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_06.pdf",
     "text_path": "data/text/Polity/Class12/Contemporary_World_Politics/ch_06.txt",
-    "word_count": null,
+    "word_count": 11227,
     "status": "ok"
   },
   {
@@ -2098,11 +2098,11 @@
     "book": "Contemporary World Politics",
     "book_code": "leps1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "In this final chapter of the book we",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Contemporary_World_Politics/ch_07.pdf",
     "text_path": "data/text/Polity/Class12/Contemporary_World_Politics/ch_07.txt",
-    "word_count": null,
+    "word_count": 7321,
     "status": "ok"
   },
   {
@@ -2111,11 +2111,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "The first few years in the life of independent India were full of challenges.",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_01.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_01.txt",
-    "word_count": null,
+    "word_count": 9719,
     "status": "ok"
   },
   {
@@ -2124,11 +2124,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Credit: Shankar",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_02.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_02.txt",
-    "word_count": null,
+    "word_count": 9350,
     "status": "ok"
   },
   {
@@ -2137,11 +2137,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "In the last two chapters we have studied how the leaders of independent",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_03.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_03.txt",
-    "word_count": null,
+    "word_count": 4695,
     "status": "ok"
   },
   {
@@ -2150,11 +2150,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Thus far we have focussed in this book on the developments within",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_04.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_04.txt",
-    "word_count": null,
+    "word_count": 8665,
     "status": "ok"
   },
   {
@@ -2163,11 +2163,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "aidnI",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_05.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_05.txt",
-    "word_count": null,
+    "word_count": 10824,
     "status": "ok"
   },
   {
@@ -2176,11 +2176,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "We have seen in the last chapter that the Congress recovered after",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_06.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_06.txt",
-    "word_count": null,
+    "word_count": 8492,
     "status": "ok"
   },
   {
@@ -2189,11 +2189,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "In the first chapter of this book we studied the process of ‘nation-building’ in the first decade",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_07.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_07.txt",
-    "word_count": null,
+    "word_count": 12192,
     "status": "ok"
   },
   {
@@ -2202,11 +2202,11 @@
     "book": "Politics in India Since Independence",
     "book_code": "leps2",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "In this last chapter we take a synoptic view of the last two decades of politics in India. These developments are complex, for various kinds of factors came together to produce unanticipated outcomes ",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Polity/Class12/Politics_in_India_Since_Independence/ch_08.pdf",
     "text_path": "data/text/Polity/Class12/Politics_in_India_Since_Independence/ch_08.txt",
-    "word_count": null,
+    "word_count": 7110,
     "status": "ok"
   },
   {
@@ -2220,7 +2220,7 @@
     "pdf_path": "data/raw_pdfs/Economics/Class9/Economics/ch_01.pdf",
     "text_path": "data/text/Economics/Class9/Economics/ch_01.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Economics",
@@ -2228,11 +2228,11 @@
     "book": "Economics",
     "book_code": "iess2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Chapter People as Resource",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Economics/Class9/Economics/ch_02.pdf",
     "text_path": "data/text/Economics/Class9/Economics/ch_02.txt",
-    "word_count": null,
+    "word_count": 8891,
     "status": "ok"
   },
   {
@@ -2246,7 +2246,7 @@
     "pdf_path": "data/raw_pdfs/Economics/Class9/Economics/ch_03.pdf",
     "text_path": "data/text/Economics/Class9/Economics/ch_03.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Economics",
@@ -2254,11 +2254,11 @@
     "book": "Economics",
     "book_code": "iess2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Chapter Food Security in India",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Economics/Class9/Economics/ch_04.pdf",
     "text_path": "data/text/Economics/Class9/Economics/ch_04.txt",
-    "word_count": null,
+    "word_count": 7862,
     "status": "ok"
   },
   {
@@ -2267,11 +2267,11 @@
     "book": "Understanding Economic Development",
     "book_code": "jess2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "NNOTOETSE SF OFRO RT HTEE ATCEHAECRHSER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_01.pdf",
     "text_path": "data/text/Economics/Class10/Understanding_Economic_Development/ch_01.txt",
-    "word_count": null,
+    "word_count": 9215,
     "status": "ok"
   },
   {
@@ -2280,11 +2280,11 @@
     "book": "Understanding Economic Development",
     "book_code": "jess2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "NOTES FOR THE TEACHER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_02.pdf",
     "text_path": "data/text/Economics/Class10/Understanding_Economic_Development/ch_02.txt",
-    "word_count": null,
+    "word_count": 13534,
     "status": "ok"
   },
   {
@@ -2293,11 +2293,11 @@
     "book": "Understanding Economic Development",
     "book_code": "jess2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "NOTES FOR THE TEACHER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_03.pdf",
     "text_path": "data/text/Economics/Class10/Understanding_Economic_Development/ch_03.txt",
-    "word_count": null,
+    "word_count": 10525,
     "status": "ok"
   },
   {
@@ -2306,11 +2306,11 @@
     "book": "Understanding Economic Development",
     "book_code": "jess2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "NOTES FOR THE TEACHER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_04.pdf",
     "text_path": "data/text/Economics/Class10/Understanding_Economic_Development/ch_04.txt",
-    "word_count": null,
+    "word_count": 10975,
     "status": "ok"
   },
   {
@@ -2319,11 +2319,11 @@
     "book": "Understanding Economic Development",
     "book_code": "jess2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "NOTES FOR THE TEACHER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class10/Understanding_Economic_Development/ch_05.pdf",
     "text_path": "data/text/Economics/Class10/Understanding_Economic_Development/ch_05.txt",
-    "word_count": null,
+    "word_count": 9635,
     "status": "ok"
   },
   {
@@ -2332,11 +2332,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "UUNNIITT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_01.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_01.txt",
-    "word_count": null,
+    "word_count": 6032,
     "status": "ok"
   },
   {
@@ -2345,11 +2345,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "INDIAN ECONOMY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_02.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_02.txt",
-    "word_count": null,
+    "word_count": 9960,
     "status": "ok"
   },
   {
@@ -2358,11 +2358,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "UUNNIITT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_03.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_03.txt",
-    "word_count": null,
+    "word_count": 8677,
     "status": "ok"
   },
   {
@@ -2371,11 +2371,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "UUNNIITT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_04.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_04.txt",
-    "word_count": null,
+    "word_count": 7810,
     "status": "ok"
   },
   {
@@ -2384,11 +2384,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "RURAL",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_05.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_05.txt",
-    "word_count": null,
+    "word_count": 10535,
     "status": "ok"
   },
   {
@@ -2397,11 +2397,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "EMPLOYMENT : GROWTH, INFORMALISATION",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_06.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_06.txt",
-    "word_count": null,
+    "word_count": 10251,
     "status": "ok"
   },
   {
@@ -2410,11 +2410,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "ENVIRONMENT AND SUSTAINABLE DEVELOPMENT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_07.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_07.txt",
-    "word_count": null,
+    "word_count": 8732,
     "status": "ok"
   },
   {
@@ -2423,11 +2423,11 @@
     "book": "Indian Economic Development",
     "book_code": "keec1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "UUNNIITT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Indian_Economic_Development/ch_08.pdf",
     "text_path": "data/text/Economics/Class11/Indian_Economic_Development/ch_08.txt",
-    "word_count": null,
+    "word_count": 9595,
     "status": "ok"
   },
   {
@@ -2436,11 +2436,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "CHAPT1ER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_01.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_01.txt",
-    "word_count": null,
+    "word_count": 4531,
     "status": "ok"
   },
   {
@@ -2449,11 +2449,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "CHAPT2ER",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_02.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_02.txt",
-    "word_count": null,
+    "word_count": 8980,
     "status": "ok"
   },
   {
@@ -2462,11 +2462,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Organisation of Data",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_03.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_03.txt",
-    "word_count": null,
+    "word_count": 10428,
     "status": "ok"
   },
   {
@@ -2475,11 +2475,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Presentation of Data",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_04.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_04.txt",
-    "word_count": null,
+    "word_count": 8988,
     "status": "ok"
   },
   {
@@ -2488,11 +2488,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Measures of Central Tendency",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_05.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_05.txt",
-    "word_count": null,
+    "word_count": 9798,
     "status": "ok"
   },
   {
@@ -2501,11 +2501,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Correlation",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_06.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_06.txt",
-    "word_count": null,
+    "word_count": 7961,
     "status": "ok"
   },
   {
@@ -2514,11 +2514,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Index Numbers",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_07.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_07.txt",
-    "word_count": null,
+    "word_count": 9564,
     "status": "ok"
   },
   {
@@ -2527,11 +2527,11 @@
     "book": "Statistics for Economics",
     "book_code": "kest1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Use of Statistical Tools",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class11/Statistics_for_Economics/ch_08.pdf",
     "text_path": "data/text/Economics/Class11/Statistics_for_Economics/ch_08.txt",
-    "word_count": null,
+    "word_count": 8544,
     "status": "ok"
   },
   {
@@ -2540,11 +2540,11 @@
     "book": "Introductory Microeconomics",
     "book_code": "leec2",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "1.1 A SIMPLE ECONOMY",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_01.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Microeconomics/ch_01.txt",
-    "word_count": null,
+    "word_count": 3855,
     "status": "ok"
   },
   {
@@ -2553,11 +2553,11 @@
     "book": "Introductory Microeconomics",
     "book_code": "leec2",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Theory of Consumer Behaviour",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_02.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Microeconomics/ch_02.txt",
-    "word_count": null,
+    "word_count": 16434,
     "status": "ok"
   },
   {
@@ -2566,11 +2566,11 @@
     "book": "Introductory Microeconomics",
     "book_code": "leec2",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Production and Costs",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_03.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Microeconomics/ch_03.txt",
-    "word_count": null,
+    "word_count": 10160,
     "status": "ok"
   },
   {
@@ -2579,11 +2579,11 @@
     "book": "Introductory Microeconomics",
     "book_code": "leec2",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "The Theory of the Firm",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_04.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Microeconomics/ch_04.txt",
-    "word_count": null,
+    "word_count": 13825,
     "status": "ok"
   },
   {
@@ -2592,11 +2592,11 @@
     "book": "Introductory Microeconomics",
     "book_code": "leec2",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Market Equilibrium",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Microeconomics/ch_05.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Microeconomics/ch_05.txt",
-    "word_count": null,
+    "word_count": 13768,
     "status": "ok"
   },
   {
@@ -2605,11 +2605,11 @@
     "book": "Introductory Macroeconomics",
     "book_code": "leec1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "You must have already been introduced to a study of basic",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_01.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Macroeconomics/ch_01.txt",
-    "word_count": null,
+    "word_count": 3625,
     "status": "ok"
   },
   {
@@ -2618,11 +2618,11 @@
     "book": "Introductory Macroeconomics",
     "book_code": "leec1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "National Income Accounting",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_02.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Macroeconomics/ch_02.txt",
-    "word_count": null,
+    "word_count": 15489,
     "status": "ok"
   },
   {
@@ -2631,11 +2631,11 @@
     "book": "Introductory Macroeconomics",
     "book_code": "leec1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Money and Banking",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_03.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Macroeconomics/ch_03.txt",
-    "word_count": null,
+    "word_count": 8738,
     "status": "ok"
   },
   {
@@ -2644,11 +2644,11 @@
     "book": "Introductory Macroeconomics",
     "book_code": "leec1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Determination of Income and Employment",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_04.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Macroeconomics/ch_04.txt",
-    "word_count": null,
+    "word_count": 6564,
     "status": "ok"
   },
   {
@@ -2657,11 +2657,11 @@
     "book": "Introductory Macroeconomics",
     "book_code": "leec1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Government Budget",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_05.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Macroeconomics/ch_05.txt",
-    "word_count": null,
+    "word_count": 9600,
     "status": "ok"
   },
   {
@@ -2670,11 +2670,11 @@
     "book": "Introductory Macroeconomics",
     "book_code": "leec1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Open Economy",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Economics/Class12/Introductory_Macroeconomics/ch_06.pdf",
     "text_path": "data/text/Economics/Class12/Introductory_Macroeconomics/ch_06.txt",
-    "word_count": null,
+    "word_count": 6439,
     "status": "ok"
   },
   {
@@ -2688,7 +2688,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_01.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_01.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2701,7 +2701,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_02.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_02.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2709,11 +2709,11 @@
     "book": "Science",
     "book_code": "fesc1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Fibre to Fabric",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_03.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_03.txt",
-    "word_count": null,
+    "word_count": 2410,
     "status": "ok"
   },
   {
@@ -2722,11 +2722,11 @@
     "book": "Science",
     "book_code": "fesc1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Sorting Materials into Groups",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_04.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_04.txt",
-    "word_count": null,
+    "word_count": 3264,
     "status": "ok"
   },
   {
@@ -2735,11 +2735,11 @@
     "book": "Science",
     "book_code": "fesc1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Body Movements",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_05.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_05.txt",
-    "word_count": null,
+    "word_count": 4589,
     "status": "ok"
   },
   {
@@ -2753,7 +2753,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_06.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_06.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2766,7 +2766,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_07.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_07.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2779,7 +2779,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_08.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_08.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2787,11 +2787,11 @@
     "book": "Science",
     "book_code": "fesc1",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "Electricity and Circuits",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_09.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_09.txt",
-    "word_count": null,
+    "word_count": 3154,
     "status": "ok"
   },
   {
@@ -2805,7 +2805,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_10.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_10.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2813,11 +2813,11 @@
     "book": "Science",
     "book_code": "fesc1",
     "chapter_no": 11,
-    "chapter_title": null,
+    "chapter_title": "Light, Shadows and Reflections",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_11.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_11.txt",
-    "word_count": null,
+    "word_count": 3076,
     "status": "ok"
   },
   {
@@ -2826,11 +2826,11 @@
     "book": "Science",
     "book_code": "fesc1",
     "chapter_no": 12,
-    "chapter_title": null,
+    "chapter_title": "Electricity and Circuits",
     "source": "wayback",
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_12.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_12.txt",
-    "word_count": null,
+    "word_count": 3157,
     "status": "ok"
   },
   {
@@ -2844,7 +2844,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_13.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_13.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2857,7 +2857,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_14.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_14.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2870,7 +2870,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_15.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_15.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2883,7 +2883,7 @@
     "pdf_path": "data/raw_pdfs/Science/Class6/Science/ch_16.pdf",
     "text_path": "data/text/Science/Class6/Science/ch_16.txt",
     "word_count": null,
-    "status": "ok"
+    "status": "pdf_missing"
   },
   {
     "subject": "Science",
@@ -2891,11 +2891,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Nutrition in Plants",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_01.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_01.txt",
-    "word_count": null,
+    "word_count": 3087,
     "status": "ok"
   },
   {
@@ -2904,11 +2904,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Nutrition in Animals",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_02.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_02.txt",
-    "word_count": null,
+    "word_count": 3806,
     "status": "ok"
   },
   {
@@ -2917,11 +2917,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Heat",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_03.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_03.txt",
-    "word_count": null,
+    "word_count": 4243,
     "status": "ok"
   },
   {
@@ -2930,11 +2930,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Acids, Bases and Salts",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_04.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_04.txt",
-    "word_count": null,
+    "word_count": 2710,
     "status": "ok"
   },
   {
@@ -2943,11 +2943,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Physical and Chemical Changes",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_05.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_05.txt",
-    "word_count": null,
+    "word_count": 3598,
     "status": "ok"
   },
   {
@@ -2956,11 +2956,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Respiration in Organisms",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_06.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_06.txt",
-    "word_count": null,
+    "word_count": 3669,
     "status": "ok"
   },
   {
@@ -2969,11 +2969,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Transportation in Animals and Plants",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_07.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_07.txt",
-    "word_count": null,
+    "word_count": 3677,
     "status": "ok"
   },
   {
@@ -2982,11 +2982,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Reproduction in Plants",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_08.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_08.txt",
-    "word_count": null,
+    "word_count": 2857,
     "status": "ok"
   },
   {
@@ -2995,11 +2995,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "Motion and Time",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_09.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_09.txt",
-    "word_count": null,
+    "word_count": 5663,
     "status": "ok"
   },
   {
@@ -3008,11 +3008,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 10,
-    "chapter_title": null,
+    "chapter_title": "Electric Current",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_10.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_10.txt",
-    "word_count": null,
+    "word_count": 4042,
     "status": "ok"
   },
   {
@@ -3021,11 +3021,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 11,
-    "chapter_title": null,
+    "chapter_title": "Light",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_11.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_11.txt",
-    "word_count": null,
+    "word_count": 4922,
     "status": "ok"
   },
   {
@@ -3034,11 +3034,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 12,
-    "chapter_title": null,
+    "chapter_title": "Forests: Our Lifeline",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_12.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_12.txt",
-    "word_count": null,
+    "word_count": 3519,
     "status": "ok"
   },
   {
@@ -3047,11 +3047,11 @@
     "book": "Science",
     "book_code": "gesc1",
     "chapter_no": 13,
-    "chapter_title": null,
+    "chapter_title": "Wastewater Story",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class7/Science/ch_13.pdf",
     "text_path": "data/text/Science/Class7/Science/ch_13.txt",
-    "word_count": null,
+    "word_count": 3224,
     "status": "ok"
   },
   {
@@ -3060,11 +3060,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "CROP PRODUCTION AND MANAGEMENT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_01.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_01.txt",
-    "word_count": null,
+    "word_count": 6213,
     "status": "ok"
   },
   {
@@ -3073,11 +3073,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "MICROORGANISMS : FRIEND AND FOE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_02.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_02.txt",
-    "word_count": null,
+    "word_count": 5124,
     "status": "ok"
   },
   {
@@ -3086,11 +3086,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "COAL AND PETROLEUM",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_03.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_03.txt",
-    "word_count": null,
+    "word_count": 2861,
     "status": "ok"
   },
   {
@@ -3099,11 +3099,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "COMBUSTION AND FLAME",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_04.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_04.txt",
-    "word_count": null,
+    "word_count": 5232,
     "status": "ok"
   },
   {
@@ -3112,11 +3112,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "CONSERVATION OF PLANTS AND ANIMALS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_05.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_05.txt",
-    "word_count": null,
+    "word_count": 5104,
     "status": "ok"
   },
   {
@@ -3125,11 +3125,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "REPRODUCTION IN ANIMALS",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_06.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_06.txt",
-    "word_count": null,
+    "word_count": 4203,
     "status": "ok"
   },
   {
@@ -3138,11 +3138,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "REACHING THE AGE OF ADOLESCENCE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_07.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_07.txt",
-    "word_count": null,
+    "word_count": 5659,
     "status": "ok"
   },
   {
@@ -3151,11 +3151,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "FORCE AND PRESSURE",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_08.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_08.txt",
-    "word_count": null,
+    "word_count": 7716,
     "status": "ok"
   },
   {
@@ -3164,11 +3164,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "FRICTION",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_09.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_09.txt",
-    "word_count": null,
+    "word_count": 3823,
     "status": "ok"
   },
   {
@@ -3177,11 +3177,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 10,
-    "chapter_title": null,
+    "chapter_title": "SOUND",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_10.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_10.txt",
-    "word_count": null,
+    "word_count": 5275,
     "status": "ok"
   },
   {
@@ -3190,11 +3190,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 11,
-    "chapter_title": null,
+    "chapter_title": "CHEMICAL EFFECTS OF ELECTRIC CURRENT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_11.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_11.txt",
-    "word_count": null,
+    "word_count": 5449,
     "status": "ok"
   },
   {
@@ -3203,11 +3203,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 12,
-    "chapter_title": null,
+    "chapter_title": "SOME NATURAL PHENOMENA",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_12.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_12.txt",
-    "word_count": null,
+    "word_count": 4895,
     "status": "ok"
   },
   {
@@ -3216,11 +3216,11 @@
     "book": "Science",
     "book_code": "hesc1",
     "chapter_no": 13,
-    "chapter_title": null,
+    "chapter_title": "LIGHT",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class8/Science/ch_13.pdf",
     "text_path": "data/text/Science/Class8/Science/ch_13.txt",
-    "word_count": null,
+    "word_count": 5767,
     "status": "ok"
   },
   {
@@ -3229,11 +3229,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "Exploration: EnEtxpelorartioinn: Engter ing the World of Secondary Science 1",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_01.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_01.txt",
-    "word_count": null,
+    "word_count": 3803,
     "status": "ok"
   },
   {
@@ -3242,11 +3242,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Cell: The Building",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_02.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_02.txt",
-    "word_count": null,
+    "word_count": 11995,
     "status": "ok"
   },
   {
@@ -3255,11 +3255,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Tissues in Action",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_03.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_03.txt",
-    "word_count": null,
+    "word_count": 10461,
     "status": "ok"
   },
   {
@@ -3268,11 +3268,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Describing Motion",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_04.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_04.txt",
-    "word_count": null,
+    "word_count": 16442,
     "status": "ok"
   },
   {
@@ -3281,11 +3281,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Exploring Mixtures",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_05.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_05.txt",
-    "word_count": null,
+    "word_count": 12424,
     "status": "ok"
   },
   {
@@ -3294,11 +3294,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "How Forces Affect",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_06.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_06.txt",
-    "word_count": null,
+    "word_count": 15154,
     "status": "ok"
   },
   {
@@ -3307,11 +3307,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "Work, Energy, and Simple Machines",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_07.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_07.txt",
-    "word_count": null,
+    "word_count": 17230,
     "status": "ok"
   },
   {
@@ -3320,11 +3320,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Journey Inside",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_08.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_08.txt",
-    "word_count": null,
+    "word_count": 12012,
     "status": "ok"
   },
   {
@@ -3333,11 +3333,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "Atomic Foundations",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_09.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_09.txt",
-    "word_count": null,
+    "word_count": 11749,
     "status": "ok"
   },
   {
@@ -3346,11 +3346,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 10,
-    "chapter_title": null,
+    "chapter_title": "Chapter Sound Waves:",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_10.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_10.txt",
-    "word_count": null,
+    "word_count": 11481,
     "status": "ok"
   },
   {
@@ -3359,11 +3359,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 11,
-    "chapter_title": null,
+    "chapter_title": "Reproduction: How",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_11.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_11.txt",
-    "word_count": null,
+    "word_count": 12334,
     "status": "ok"
   },
   {
@@ -3372,11 +3372,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 12,
-    "chapter_title": null,
+    "chapter_title": "Chapter Patterns in Life:",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_12.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_12.txt",
-    "word_count": null,
+    "word_count": 13001,
     "status": "ok"
   },
   {
@@ -3385,11 +3385,11 @@
     "book": "Science",
     "book_code": "iesc1",
     "chapter_no": 13,
-    "chapter_title": null,
+    "chapter_title": "Earth as a System:",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class9/Science/ch_13.pdf",
     "text_path": "data/text/Science/Class9/Science/ch_13.txt",
-    "word_count": null,
+    "word_count": 15508,
     "status": "ok"
   },
   {
@@ -3398,11 +3398,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 1,
-    "chapter_title": null,
+    "chapter_title": "“Facts are not science — as the dictionary is not literature.”",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_01.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_01.txt",
-    "word_count": null,
+    "word_count": 6434,
     "status": "ok"
   },
   {
@@ -3411,11 +3411,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 2,
-    "chapter_title": null,
+    "chapter_title": "Acids, Bases",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_02.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_02.txt",
-    "word_count": null,
+    "word_count": 7950,
     "status": "ok"
   },
   {
@@ -3424,11 +3424,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 3,
-    "chapter_title": null,
+    "chapter_title": "Metals and Non-metals",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_03.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_03.txt",
-    "word_count": null,
+    "word_count": 8300,
     "status": "ok"
   },
   {
@@ -3437,11 +3437,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 4,
-    "chapter_title": null,
+    "chapter_title": "Carbon and its",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_04.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_04.txt",
-    "word_count": null,
+    "word_count": 9771,
     "status": "ok"
   },
   {
@@ -3450,11 +3450,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 5,
-    "chapter_title": null,
+    "chapter_title": "Life Processes",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_05.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_05.txt",
-    "word_count": null,
+    "word_count": 10432,
     "status": "ok"
   },
   {
@@ -3463,11 +3463,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 6,
-    "chapter_title": null,
+    "chapter_title": "Control and Coordination",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_06.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_06.txt",
-    "word_count": null,
+    "word_count": 5237,
     "status": "ok"
   },
   {
@@ -3476,11 +3476,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 7,
-    "chapter_title": null,
+    "chapter_title": "How do Organisms",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_07.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_07.txt",
-    "word_count": null,
+    "word_count": 6265,
     "status": "ok"
   },
   {
@@ -3489,11 +3489,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 8,
-    "chapter_title": null,
+    "chapter_title": "Heredity",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_08.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_08.txt",
-    "word_count": null,
+    "word_count": 3843,
     "status": "ok"
   },
   {
@@ -3502,11 +3502,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 9,
-    "chapter_title": null,
+    "chapter_title": "Light – Reflection and Refraction",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_09.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_09.txt",
-    "word_count": null,
+    "word_count": 11323,
     "status": "ok"
   },
   {
@@ -3515,11 +3515,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 10,
-    "chapter_title": null,
+    "chapter_title": "The Human Eye and the Colourful World",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_10.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_10.txt",
-    "word_count": null,
+    "word_count": 4816,
     "status": "ok"
   },
   {
@@ -3528,11 +3528,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 11,
-    "chapter_title": null,
+    "chapter_title": "Electricity",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_11.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_11.txt",
-    "word_count": null,
+    "word_count": 9175,
     "status": "ok"
   },
   {
@@ -3541,11 +3541,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 12,
-    "chapter_title": null,
+    "chapter_title": "Magnetic Effects of Electric Current",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_12.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_12.txt",
-    "word_count": null,
+    "word_count": 5616,
     "status": "ok"
   },
   {
@@ -3554,11 +3554,11 @@
     "book": "Science",
     "book_code": "jesc1",
     "chapter_no": 13,
-    "chapter_title": null,
+    "chapter_title": "Our Environment",
     "source": "official",
     "pdf_path": "data/raw_pdfs/Science/Class10/Science/ch_13.pdf",
     "text_path": "data/text/Science/Class10/Science/ch_13.txt",
-    "word_count": null,
+    "word_count": 3622,
     "status": "ok"
   }
 ]

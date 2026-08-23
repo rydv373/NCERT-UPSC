@@ -44,28 +44,47 @@ def polite_sleep() -> None:
 
 
 def is_valid_pdf(content: bytes, min_size: int = 20_000) -> bool:
-    return len(content) >= min_size and content[:4] == b"%PDF"
+    """Check magic bytes, minimum size, and that the file actually ends with a PDF trailer.
+
+    Header-only checks let truncated downloads through (seen in practice with flaky Wayback
+    Machine responses: a real %PDF header followed by a connection that dropped mid-transfer).
+    A well-formed PDF ends with %%EOF (optionally followed by whitespace/a startxref block).
+    """
+    if len(content) < min_size or content[:4] != b"%PDF":
+        return False
+    return b"%%EOF" in content[-2048:]
 
 
-def wayback_snapshot_url(session: requests.Session, original_url: str) -> str | None:
-    """Look up the most recent Wayback Machine snapshot of original_url, if any.
+def wayback_all_snapshots(session: requests.Session, original_url: str) -> list[str]:
+    """Return every archived timestamp (200-status) for original_url, newest first.
 
-    Returns a fully-qualified web.archive.org URL usable for direct download, or None.
+    Trying multiple independent archived copies (rather than trusting a single "closest" pick)
+    matters because archive.org intermittently serves a degraded/truncated response for one
+    snapshot while other timestamps of the exact same file are fine.
     """
     try:
         resp = session.get(
-            "https://archive.org/wayback/available",
-            params={"url": original_url},
-            timeout=15,
+            "http://web.archive.org/cdx/search/cdx",
+            params={
+                "url": original_url,
+                "output": "json",
+                "filter": "statuscode:200",
+                "limit": 50,
+            },
+            timeout=20,
         )
         resp.raise_for_status()
-        data = resp.json()
-        closest = data.get("archived_snapshots", {}).get("closest")
-        if closest and closest.get("available"):
-            return closest["url"]
+        rows = resp.json()
     except Exception:
-        return None
-    return None
+        return []
+
+    if not rows or len(rows) < 2:
+        return []
+
+    header = rows[0]
+    idx_ts = header.index("timestamp")
+    timestamps = sorted({row[idx_ts] for row in rows[1:]}, reverse=True)
+    return [f"http://web.archive.org/web/{ts}/{original_url}" for ts in timestamps]
 
 
 def wayback_cdx_chapters(session: requests.Session, code: str, max_chapter: int = 25) -> list[int]:

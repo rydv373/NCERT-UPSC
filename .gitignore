@@ -11,3 +11,6 @@ data/search_index.sqlite
 .DS_Store
 .vscode/
 .claude/
+
+# Supabase credentials — never commit
+.streamlit/secrets.toml

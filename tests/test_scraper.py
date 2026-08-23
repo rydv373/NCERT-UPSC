@@ -83,6 +83,21 @@ def test_book_list_has_no_duplicate_book_codes_per_class_subject():
         seen.add(key)
 
 
+def test_is_valid_pdf_rejects_truncated_file_with_good_header():
+    # real %PDF header + padding past min_size, but no %%EOF trailer: a truncated download
+    truncated = b"%PDF-1.4\n" + b"x" * 25_000
+    assert not utils.is_valid_pdf(truncated)
+
+
+def test_is_valid_pdf_accepts_well_formed_file():
+    well_formed = b"%PDF-1.4\n" + b"x" * 25_000 + b"\n%%EOF\n"
+    assert utils.is_valid_pdf(well_formed)
+
+
+def test_is_valid_pdf_rejects_wrong_header():
+    assert not utils.is_valid_pdf(b"<html>" + b"x" * 25_000 + b"%%EOF")
+
+
 def test_slugify_produces_filesystem_safe_names():
     assert utils.slugify("India & the Contemporary World") == "India_and_the_Contemporary_World"
     assert utils.slugify("  Our Pasts I  ") == "Our_Pasts_I"
