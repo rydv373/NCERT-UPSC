@@ -1,12 +1,16 @@
-# NCERT for UPSC
+# NCERT for UPSC — Knowledge Base & Dashboard
 
-A local knowledge base of the standard "NCERT for UPSC" textbook set — collected chapter-by-chapter
-with clean metadata and exposed through a full-text search dashboard, so any topic can be found
-instantly across subjects and classes.
+A searchable knowledge base of the standard "NCERT for UPSC" textbook set — 35 books, 248 chapters,
+collected chapter-by-chapter with clean metadata and exposed through a full-text search dashboard
+so any topic can be found instantly across subjects and classes.
 
 Covers History, Geography, Polity, Economics (classes 6–12) and Science (classes 6–10) — the
-~35-book reading list UPSC aspirants traditionally build on. English medium only, old/classic
-editions throughout (see [PLAN.md](PLAN.md) for why that matters and how sourcing works).
+classic UPSC reading list. English medium only, old/classic editions throughout (see [PLAN.md](PLAN.md)
+for why that matters and how sourcing works).
+
+**Backend:** Supabase (Postgres + Storage) for hosted deployments, with SQLite fallback for local
+development. Data is live (248/274 chapters migrated to Supabase); 26 chapters pending Wayback
+Machine recovery.
 
 ## What's in here
 
@@ -70,17 +74,25 @@ in the catalog instead of writing empty text (no OCR in v1).
 
 ## Running the dashboard
 
-```bash
-streamlit run app/app.py
-```
+### Local (with Supabase):
+1. Ensure Supabase credentials are in `.streamlit/secrets.toml` (see `.streamlit/secrets.toml.example`):
+   ```toml
+   SUPABASE_URL = "https://xxxxx.supabase.co"
+   SUPABASE_ANON_KEY = "eyJ..."
+   ```
+2. Run: `streamlit run app/app.py`
+3. Open **http://localhost:8501** — the app auto-detects Supabase and uses it as the backend
 
-Then open **http://localhost:8501**. You'll see:
+### Local (fallback, SQLite):
+If Supabase credentials are missing or the schema isn't applied, the app falls back to the local
+SQLite index (requires running `scripts/04_build_index.py` first).
+
+### Dashboard features:
 - **Search** — full-text query with ranked results, snippets, and subject/class/book filters
-- **Browse** — Subject → Class → Book → Chapter tree, for when you know what you want
-- A chapter reader pane — click any result/chapter to open it: an **"Open original PDF"**
-  button + file path at the top, followed by the cleaned extracted text
+- **Browse** — Subject → Class → Book → Chapter tree
+- **Chapter reader** — click any result/chapter to view: PDF link + extracted text
 
-To stop it: `Ctrl+C` in the terminal it's running in, or `pkill -f "streamlit run app/app.py"`.
+To stop: `Ctrl+C` or `pkill -f "streamlit run"`.
 
 ## Tests
 
@@ -91,20 +103,27 @@ pytest tests/
 All tests are offline (network calls mocked) and fast — safe to run anytime without hitting
 ncert.nic.in or the Wayback Machine.
 
-## Status / known gaps
+## Status
 
-As of the last full pipeline run: **35 books, 274 catalogued chapters, 248 downloaded/extracted/
-indexed and searchable**. The remaining 26 chapters belong to 7 retired-edition books (e.g. Class 6
-History/Geography/Science, Class 9 Social Science) that depend on the Wayback Machine, which was
-experiencing a service-side outage (503s / truncated responses) at the time — `02_download_pdfs.py`
-is safe to re-run any time to pick up the rest once archive.org recovers; it skips everything
-already downloaded.
+**✓ Pipeline complete & searchable:**
+- 35 books, 274 chapters catalogued
+- 248 chapters downloaded, extracted, indexed
+- Data migrated to Supabase (live)
+- Dashboard tested locally (Supabase + SQLite fallback both working)
 
-See the status checklist and "Open risks / assumptions" in [PLAN.md](PLAN.md) for the full picture,
-and [DEPLOYMENT.md](DEPLOYMENT.md) for how to put this online instead of running it locally.
+**Remaining work:**
+- 26 chapters still blocked by Wayback Machine outage — `02_download_pdfs.py` is resumable and safe
+  to re-run anytime to pick up the rest; it skips files already downloaded
+- Deploy to **Streamlit Community Cloud** for a public hosted URL (see [DEPLOYMENT.md](DEPLOYMENT.md)
+  for 3 min step-by-step)
+
+See [PLAN.md](PLAN.md) for the full roadmap, execution checklist, and architecture notes.
 
 ## Deployment
 
-This runs locally by default (Streamlit + a SQLite file on disk). To host it from GitHub with
-Supabase as the backend — either keeping the current Streamlit UI or rewriting the frontend for
-Vercel — see **[DEPLOYMENT.md](DEPLOYMENT.md)** for the two supported paths and step-by-step plans.
+The dashboard is ready to deploy. See **[DEPLOYMENT.md](DEPLOYMENT.md)** for:
+
+- **Path A (Recommended):** Streamlit Community Cloud + Supabase (~3 min, no credit card needed)
+- **Path B:** Vercel + Next.js + Supabase (full custom frontend, more control)
+
+Both paths use Supabase as the backend; local SQLite is only for development.
