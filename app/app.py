@@ -197,12 +197,19 @@ def main():
 
     backend, client = get_backend()
     if backend is None:
-        st.error(
-            "No data backend available. Either configure Supabase "
-            "(SUPABASE_URL / SUPABASE_ANON_KEY in .streamlit/secrets.toml) or run the local "
-            "pipeline through scripts/04_build_index.py to build data/search_index.sqlite. "
-            "See DEPLOYMENT.md."
-        )
+        has_supabase_config = bool(get_secret("SUPABASE_URL") and get_secret("SUPABASE_ANON_KEY"))
+        if has_supabase_config:
+            message = (
+                "Supabase credentials were found, but the chapters table could not be reached. "
+                "Confirm that supabase/schema.sql has been applied and that the project is online."
+            )
+        else:
+            message = (
+                "Supabase credentials are missing. For local use, add SUPABASE_URL and "
+                "SUPABASE_ANON_KEY to .streamlit/secrets.toml. On Streamlit Community Cloud, "
+                "add them under App settings → Secrets."
+            )
+        st.error(message)
         return
     st.caption(f"Backend: {'Supabase' if backend == 'supabase' else 'local SQLite'}")
 

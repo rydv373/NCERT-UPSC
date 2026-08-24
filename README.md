@@ -87,6 +87,13 @@ in the catalog instead of writing empty text (no OCR in v1).
 If Supabase credentials are missing or the schema isn't applied, the app falls back to the local
 SQLite index (requires running `scripts/04_build_index.py` first).
 
+### Hosted (Streamlit Community Cloud):
+Supabase is already populated with the 248 available chapters. To host the dashboard, create a new
+app at [Streamlit Community Cloud](https://share.streamlit.io), select this repository's `main`
+branch, set `app/app.py` as the main file, and paste the contents of `.streamlit/secrets.toml`
+into the app's Secrets setting. Use only `SUPABASE_URL` and `SUPABASE_ANON_KEY`; never upload the
+service-role key. Full deployment steps are in [DEPLOYMENT.md](DEPLOYMENT.md).
+
 ### Dashboard features:
 - **Search** — full-text query with ranked results, snippets, and subject/class/book filters
 - **Browse** — Subject → Class → Book → Chapter tree
@@ -121,9 +128,6 @@ See [PLAN.md](PLAN.md) for the full roadmap, execution checklist, and architectu
 
 ## Deployment
 
-The dashboard is ready to deploy. See **[DEPLOYMENT.md](DEPLOYMENT.md)** for:
-
-- **Path A (Recommended):** Streamlit Community Cloud + Supabase (~3 min, no credit card needed)
-- **Path B:** Vercel + Next.js + Supabase (full custom frontend, more control)
-
-Both paths use Supabase as the backend; local SQLite is only for development.
+The dashboard is ready to deploy to **Streamlit Community Cloud** with Supabase. See
+**[DEPLOYMENT.md](DEPLOYMENT.md)** for the complete checklist. Local SQLite is only the development
+fallback.

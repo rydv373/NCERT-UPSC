@@ -1,120 +1,70 @@
-# Deployment plan — Supabase + hosting from GitHub
+# Deployment — Supabase + Streamlit Community Cloud
 
-Status: **planning only, not yet implemented.** This document lays out two concrete paths to take
-this project from "runs locally" to "hosted, backed by Supabase, deployed from GitHub." Pick one
-before starting — they're different enough in effort that mixing them isn't worth it.
+**Status: Supabase complete; Streamlit hosting is the next step.** Data is live in Supabase
+(248 chapters migrated), and the app has passed the local test suite. The remaining work is to
+connect this GitHub repository to Streamlit Community Cloud and add the two public read-only
+Supabase secrets in the Cloud settings.
 
-## Why this needs a real decision first
+## Hosting choice
 
-The current app (`app/app.py`) is a **Streamlit** app: a long-running Python server that keeps a
-WebSocket connection open per user session and reads `data/search_index.sqlite` + `data/raw_pdfs/`
-straight off local disk.
+The current app (`app/app.py`) is a **Streamlit** app. Streamlit Community Cloud is the matching
+hosting platform, and Supabase supplies the hosted database, full-text search, and PDF storage.
+The deployed app uses Supabase when its credentials are configured; SQLite and local files remain
+available as a development fallback.
 
-**Vercel does not run apps like that.** Vercel hosts static sites and short-lived serverless
-functions (each request spins up fresh, no persistent process, no local disk to keep a SQLite
-file or PDFs on). Streamlit has no supported Vercel deployment path. So "host on Vercel" and "keep
-the Streamlit UI" are mutually exclusive — one of them has to give.
-
-**Supabase fits either way.** It's a hosted Postgres database (with full-text search built in) plus
-S3-compatible object storage, and both paths below use it the same way: as the replacement for
-`search_index.sqlite` (→ Postgres full-text search) and `data/raw_pdfs/` (→ Supabase Storage).
-
-| | Path A — keep Streamlit | Path B — rewrite for Vercel |
-|---|---|---|
-| Effort | Low — swap the DB, redeploy | High — new frontend from scratch |
-| UI | Unchanged | Rebuilt (e.g. Next.js) |
-| Host | Streamlit Community Cloud | Vercel |
-| Recommended if | You just want this hosted, minimal rework | You specifically need it on Vercel (existing infra, team convention, custom domain setup already there, etc.) |
-
-**Recommendation: Path A**, unless there's a specific reason it has to be Vercel. It reuses
-everything already built and tested.
+Streamlit Community Cloud is free for this deployment and connects directly to the GitHub `main`
+branch. No local PDFs, extracted text, or SQLite database need to be committed.
 
 ---
 
-## Shared step 0: push to GitHub
+## Deployment checklist
 
-Both paths assume the repo is on GitHub first (deploy platforms both connect by importing a GitHub
-repo and auto-redeploying on push to `main`).
+✅ **Done.** Repo is at [github.com/rydv373/NCERT-UPSC](https://github.com/rydv373/NCERT-UPSC),
+with the deployment code on `main`.
 
-```bash
-# from the project root, once you have an empty GitHub repo created:
-git remote add origin <your-repo-url>
-git push -u origin main
-```
+### 1. Supabase setup
 
-## Shared step 1: set up Supabase
+✅ **Done.**
+1. Project created at [supabase.com](https://supabase.com)
+2. Schema applied (`chapters` table + full-text search + RLS policy)
+3. Storage bucket `pdfs` created and set Public
+4. Credentials noted:
+   - Project URL: `https://poghmlsnbzqeaufzebwp.supabase.co`
+   - Anon key: In `.streamlit/secrets.toml`
+   - Service role key: Used for migration script only (never committed)
 
-1. Create a project at [supabase.com](https://supabase.com) (free tier is plenty for ~250 rows of
-   metadata + text and ~250 PDFs).
-2. In the SQL editor (Project → SQL Editor → New query), paste and run **[`supabase/schema.sql`](supabase/schema.sql)**
-   — creates the `chapters` table with a generated `tsvector` column + GIN index (replaces SQLite
-   FTS5 + `bm25()`: queries become
-   `... where search_vector @@ plainto_tsquery('english', $1) order by ts_rank(search_vector, plainto_tsquery('english', $1)) desc`),
-   plus a unique index on `(book_code, chapter_no)` so the migration script can safely re-run, and
-   a Row Level Security policy allowing anonymous `SELECT` only (read-only public reference data —
-   no write policy is granted; the migration script writes via the `service_role` key, which
-   bypasses RLS).
-3. In Storage (sidebar), create a bucket named exactly `pdfs`, set it **Public**.
-4. In Project Settings → API, note the **Project URL**, the **`anon` public** key, and the
-   **`service_role`** key (the last one is a secret — only ever used locally by the migration
-   script below, never shipped to a browser or committed to git).
+### 2. Data migration
 
-## Shared step 2: run the migration script
+✅ **Done.** Ran `scripts/05_migrate_to_supabase.py`:
+- All 248 chapters uploaded to `pdfs` Storage bucket
+- All 248 chapters upserted into `chapters` table (metadata + extracted text)
+### 3. Local smoke test
 
-**[`scripts/05_migrate_to_supabase.py`](scripts/05_migrate_to_supabase.py)** is already written and
-re-runnable (upserts on `(book_code, chapter_no)`, so running it again after the local corpus
-changes just updates what changed):
+Before deploying, verify the app with the same public credentials that will be entered in Cloud:
 
 ```bash
-export SUPABASE_URL=https://xxxxx.supabase.co
-export SUPABASE_SERVICE_KEY=eyJ...        # service_role key, not anon
-cd scripts && python3 05_migrate_to_supabase.py
+cp .streamlit/secrets.toml.example .streamlit/secrets.toml
+# Edit .streamlit/secrets.toml with SUPABASE_URL and SUPABASE_ANON_KEY
+source venv/bin/activate
+streamlit run app/app.py
 ```
 
-It reads `data/catalog.json` + each `data/text/**/*.txt`, uploads each `data/raw_pdfs/**/*.pdf`
-into the `pdfs` Storage bucket (mirroring the existing `<Subject>/<Class>/<Book>/ch_XX.pdf` path),
-and upserts one row per chapter into `chapters` (metadata + the chapter body text). This is the
-bridge between the local pipeline (scrape → download → extract, unchanged) and the hosted app —
-run it once after `03_extract_text.py`, and re-run it whenever the local corpus changes.
+Open `http://localhost:8501`, run a search, open a chapter, and confirm the PDF link works.
 
----
+### 4. Deploy to Streamlit Community Cloud
 
-## Path A — keep Streamlit, deploy to Streamlit Community Cloud
+1. Sign in at [share.streamlit.io](https://share.streamlit.io) with the GitHub account that can
+   access `rydv373/NCERT-UPSC`.
+2. Select **Create app** / **New app**.
+3. Choose repository `rydv373/NCERT-UPSC`, branch `main`, and main file path `app/app.py`.
+4. Open **Advanced settings**, then paste the contents of `.streamlit/secrets.toml` into the
+   **Secrets** field. Use only `SUPABASE_URL` and `SUPABASE_ANON_KEY`; never add the
+   `SUPABASE_SERVICE_KEY`.
+5. Select **Deploy** and wait for the app health check to finish.
+6. Open the generated `streamlit.app` URL and test Search, Browse, chapter text, and the PDF link.
 
-**Done — `app/app.py` is already rewritten for this.** It talks to Supabase exclusively (no more
-`sqlite3`/local files): search goes through the `search_chapters` RPC (ranked results + `**`-marked
-snippets via `ts_headline`), Browse and filters use plain `sb.table("chapters")` queries, and
-"Open original PDF" is a `st.link_button` to the Storage bucket's public URL
-(`sb.storage.from_("pdfs").get_public_url(row["pdf_storage_path"])`) instead of reading local bytes.
-
-To run it:
-1. Copy `.streamlit/secrets.toml.example` → `.streamlit/secrets.toml`, fill in your project's
-   **Project URL** and **`anon` public** key (not `service_role` — that key is for the migration
-   script only). `secrets.toml` is gitignored.
-2. `streamlit run app/app.py` — it now reads/writes nothing local, purely Supabase.
-3. Push to GitHub, then on [share.streamlit.io](https://share.streamlit.io): "New app" → pick this
-   repo/branch → set `app/app.py` as the entrypoint → paste the same two secrets into the app's
-   Secrets panel (in the dashboard, not the repo) → Deploy.
-4. Every push to `main` auto-redeploys.
-
-## Path B — rewrite for Vercel (Next.js + Supabase)
-
-1. Scaffold a new `web/` directory: `npx create-next-app@latest web` (or a lighter Vite+React app
-   if a full framework is overkill for three pages).
-2. Add `@supabase/supabase-js`, initialize a client using `NEXT_PUBLIC_SUPABASE_URL` /
-   `NEXT_PUBLIC_SUPABASE_ANON_KEY` (safe to expose client-side — that's what the `anon` key + RLS
-   read-only policy from step 1.4 is for).
-3. Build three pages/routes, each a thin wrapper over a Supabase query, mirroring the current
-   Streamlit tabs:
-   - **Search** — `.textSearch("search_vector", query)`, ranked, with subject/class/book filters
-     as additional `.eq()` calls.
-   - **Browse** — grouped `.select()` queries (distinct subject → class → book → chapters), or a
-     Postgres view for the tree structure.
-   - **Chapter reader** — fetch one row by id, render `body`, link to the Storage public URL for
-     the PDF.
-4. `git push` this to GitHub (same repo, `web/` subdirectory, or a separate repo — either works).
-5. Import the repo into [vercel.com](https://vercel.com), set the project root to `web/` if it's a
-   subdirectory, add the two `NEXT_PUBLIC_SUPABASE_*` env vars in Vercel's project settings.
+Future pushes to `main` automatically redeploy the app. The Streamlit Cloud logs are available
+under **Manage app** if startup or Supabase connection errors occur.
 6. Deploy. Every push to `main` auto-redeploys; PRs get their own preview URL for free.
 
 The Python pipeline (`scripts/01`–`04` + the new `05_migrate_to_supabase.py`) stays exactly as it
@@ -125,10 +75,7 @@ deployed app itself.
 
 ## Status
 
-**Path A is implemented and ready to run** once a Supabase project exists: `supabase/schema.sql`,
-`scripts/05_migrate_to_supabase.py`, and the Supabase-backed `app/app.py` are all written. What's
-still needed is a Supabase project (account access only you have) and then running the migration
-+ deploying to Streamlit Community Cloud per the steps above.
+**Remaining action:** deploy `app/app.py` using section 4, then record the generated public URL
+below.
 
-**Path B is plan-only** — nothing under `web/` exists yet. It additionally needs a Vercel account
-and a decision on repo layout (monorepo `web/` subdirectory vs. separate repo) before it can start.
+Hosted URL: _pending Streamlit Community Cloud deployment_
